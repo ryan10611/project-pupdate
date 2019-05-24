@@ -68,8 +68,8 @@ d3.csv('data.csv', function (data) {
       })
       .append('title') // Tooltip
       .text(function (d) { return d.Breed +
-                           '\nLife Expectancy Low: ' + formatNumber(d.lehigh) +
-                           '\nLife Expectancy High.: ' + formatNumber(d.lelow) })
+                           '\nLife Expectancy Low: ' + formatNumber(d.lelow) +
+                           '\nLife Expectancy High.: ' + formatNumber(d.lehigh) })
       .append('image')
       .attr('xlink:href', function (d) { return d.ImageURL })
       .attr('width', 200)
