@@ -101,12 +101,73 @@ d3.csv('data.csv', function (data) {
       .text('Life Expectancy High')
 
   // List of groups (here I have one group per column)
-  var allGroup = d3.map(data, function(d){return(d.Breed)}).keys()
+  var allGroup1 = d3.map(data, function(d){return(d.Breed)}).keys()
 
   // add the options to the button
-  d3.select("#selectButton")
+  d3.select("#selDataset1")
     .selectAll('myOptions')
-    .data(allGroup)
+    .data(allGroup1)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+
+  // List of groups (here I have one group per column)
+  var allGroup2 = d3.map(data, function(d){return(d.Group)}).keys()
+
+  // add the options to the button
+  d3.select("#selDataset2")
+    .selectAll('myOptions')
+    .data(allGroup2)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup4 = d3.map(data, function(d){return(d.Energy)}).keys()
+
+  // add the options to the button
+  d3.select("#selDataset4")
+    .selectAll('myOptions')
+    .data(allGroup4)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup5 = d3.map(data, function(d){return(d.Grooming)}).keys()
+
+  // add the options to the button
+  d3.select("#selDataset5")
+    .selectAll('myOptions')
+    .data(allGroup5)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup6 = d3.map(data, function(d){return(d.Shedding)}).keys()
+
+  // add the options to the button
+  d3.select("#selDataset6")
+    .selectAll('myOptions')
+    .data(allGroup6)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup7 = d3.map(data, function(d){return(d.Trainability)}).keys()
+
+  // add the options to the button
+  d3.select("#selDataset7")
+    .selectAll('myOptions')
+    .data(allGroup7)
     .enter()
     .append('option')
     .text(function (d) { return d; }) // text showed in the menu
@@ -117,7 +178,7 @@ d3.csv('data.csv', function (data) {
     .data(data)
     .enter()
     .append('circle')
-    .datum(data.filter(function(d){return d.Breed==allGroup[0]}))
+    .datum(data.filter(function(d){return d.Breed==allGroup1[0]}))
     .attr('cx',function (d) { return xScale(d.lelow) })
     .attr('cy',function (d) { return yScale(d.lehigh) })
     .attr('r','10')

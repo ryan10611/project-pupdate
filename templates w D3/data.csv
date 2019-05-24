@@ -1,4 +1,4 @@
-Breed,Energy level,Grooming frequency,Group,ImageURL,lelow,lehigh,Shedding,Trainability
+Breed,Energy,Grooming,Group,ImageURL,lelow,lehigh,Shedding,Trainability
 Affenpinscher,Regular Exercise,2-3 Times a Week Brushing,Toy Group,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30174107/Affenpinscher-copy.jpg,12,15,Seasonal,Easy Training
 Afghan Hound,Energetic,Daily Brushing,Hound Group,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19145725/Afghan-Hound1.jpg,12,18,Infrequent,May be Stubborn
 Airedale Terrier,Regular Exercise,2-3 Times a Week Brushing,Terrier Group,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001924/Airedale-Terrier-On-White-03.jpg,11,14,Occasional,Eager to Please
