@@ -4,7 +4,7 @@ d3.csv('data.csv', function (data) {
   var body = d3.select('#scatter')
 	var margin = { top: 50, right: 50, bottom: 50, left: 50 }
 	var h = 500 - margin.top - margin.bottom
-	var w = 500 - margin.left - margin.right
+	var w = 800 - margin.left - margin.right
 	var formatNumber = d3.format(',d')
 
   // Scales
