@@ -1,32 +1,32 @@
 {
-   "name": "Doggos",
+   "name": "flare",
    "children": [
     {
-     "name": "Energy",
+     "name": "energy",
      "children": [
       {
          "name": "Calm",
          "children": [
          {
-            "name": "Grooming",
+            "name": "grooming",
             "children": [
             {
                "name": "2-3 Times a Week Brushing",
                "children": [
                {
-                  "name": "Shedding",
+                  "name": "shedding",
                   "children": [
                   {
                      "name": "Infrequent",
                      "children": [
                      {
-                        "name": "Trainability",
+                        "name": "trainability",
                         "children": [
                         {
                            "name": "May be Stubborn",
                            "children": [
                            {
-                              "name": "Group",
+                              "name": "group",
                               "children": [
                               {
                                  "name": "Hound Group",
@@ -37,13 +37,13 @@
                      "name": "Occasional",
                      "children": [ 
                         {
-                           "name": "Trainability",
+                           "name": "trainability",
                            "children": [ 
                               {
                               "name": "Eager to Please", 
                               "children": [
                                  {
-                                    "name": "Group",
+                                    "name": "group",
                                     "children": [ 
                                        {
                                        "name": "Terrier Group",
@@ -54,13 +54,13 @@
                      "name": "Seasonal",
                      "children": [
                         {
-                           "name": "Trainability",
+                           "name": "trainability",
                            "children": [ 
                               {
                               "name": "Easy Training",
                               "children": [
                                  {
-                                    "name": "Group",
+                                    "name": "group",
                                     "children": [ 
                                        {
                                        "name": "Toy Group",
@@ -71,19 +71,19 @@
                "name": "Daily Brushing",
                "children": [
                   {
-                     "name": "Shedding",
+                     "name": "shedding",
                      "children": [
                         {
                         "name": "Seasonal",
                         "children": [
                            {
-                              "name": "Trainability",
+                              "name": "trainability",
                               "children": [
                                  {
                                     "name": "Eager to Please",
                                     "children": [
                                        {
-                                          "name": "Group",
+                                          "name": "group",
                                           "children": [
                                              {
                                                 "name": "Working Group",
@@ -94,19 +94,19 @@
                "name": "Occasional Bath/Brush",
                "children": [
                {
-                  "name": "Shedding",
+                  "name": "shedding",
                   "children": [
                   {
                      "name": "2-3 Times a Week Brushing",
                      "children": [
                      {
-                        "name": "Trainability",
+                        "name": "trainability",
                         "children": [
                         {
                            "name": "Independent",
                            "children": [
                            {
-                              "name": "Group",
+                              "name": "group",
                               "children": [
                               {
                                  "name": "Working Group",
@@ -117,13 +117,13 @@
                      "name": "Occasional",
                      "children": [
                      {
-                        "name": "Trainability",
+                        "name": "trainability",
                         "children": [
                         {
                            "name": "Agreeable",
                            "children": [
                               {
-                                 "name": "Group",
+                                 "name": "group",
                                  "children": [
                                  {
                                     "name": "Hound Group",
@@ -134,19 +134,19 @@
                "name": "Weekly Brushing",
                "children": [
                   {
-                     "name": "Shedding",
+                     "name": "shedding",
                      "children": [
                      {
                         "name": "Seasonal",
                         "children": [
                         {
-                           "name": "Trainability",
+                           "name": "trainability",
                            "children": [
                            {
                               "name": "Eager to Please",
                               "children": [
                               {
-                                 "name": "Group",
+                                 "name": "group",
                                  "children": [
                                  {
                                     "name": "Non-Sporting Group",
@@ -157,7 +157,7 @@
                               "name": "Independent",
                               "children": [
                               {
-                                 "name": "Group",
+                                 "name": "group",
                                  "children": [
                                  {
                                     "name": "Hound Group",
@@ -168,25 +168,25 @@
          "name": "Energetic",
          "children": [
             {
-               "name": "Grooming",
+               "name": "grooming",
                "children": [
                   {
                      "name": "2-3 Times a Week Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Miscellaneous Class",
@@ -202,7 +202,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -213,13 +213,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -231,13 +231,13 @@
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "May be Stubborn",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -252,7 +252,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -263,13 +263,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -280,7 +280,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -291,7 +291,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -302,19 +302,19 @@
                      "name": "Daily Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "2-3 Times a Week Brushing",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Terrier Group",
@@ -325,13 +325,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Easy Training",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Herding Group",
@@ -344,7 +344,7 @@
                                           "name": "Independent",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Herding Group",
@@ -355,19 +355,19 @@
                      "name": "Occasional Bath/Brush",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Frequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -378,13 +378,13 @@
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -400,7 +400,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                                 {
                                                    "name": "Non-Sporting Group",
@@ -411,13 +411,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -433,7 +433,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                                 {
                                                    "name": "Terrier Group",
@@ -449,13 +449,13 @@
                               "name": "Seasonal",
                               "children": [             
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -471,7 +471,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                                 {
                                                    "name": "Herding Group",
@@ -482,7 +482,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -498,7 +498,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -511,19 +511,19 @@
                      "name": "Weekly Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Frequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -534,13 +534,13 @@
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Toy Group",
@@ -551,7 +551,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -562,13 +562,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Terrier Group",
@@ -585,7 +585,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -601,7 +601,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -612,7 +612,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Toy Group",
@@ -623,13 +623,13 @@
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -646,7 +646,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -657,7 +657,7 @@
                                        "name": "May be Stubborn",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -668,13 +668,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Foundation Stock Service",
@@ -685,13 +685,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -712,7 +712,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -728,7 +728,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Terrier Group",
@@ -739,7 +739,7 @@
                                        "name": "May be Stubborn",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -750,25 +750,25 @@
          "name": "Needs Lots of Activity",
          "children": [
             {
-               "name": "Grooming",
+               "name": "grooming",
                "children": [
                   {
                      "name": "2-3 Times a Week Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -779,7 +779,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -790,13 +790,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -807,19 +807,19 @@
                      "name": "Daily Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Hound Group",
@@ -830,13 +830,13 @@
                               "name": "Frequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Non-Sporting Group",
@@ -847,7 +847,7 @@
                                           "name": "Independent",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Herding Group",
@@ -858,19 +858,19 @@
                      "name": "Occasional Bath/Brush",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -887,7 +887,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -898,7 +898,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -909,7 +909,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Miscellaneous Class",
@@ -920,13 +920,13 @@
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Terrier Group",
@@ -937,7 +937,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                                 {
                                                    "name": "Non-Sporting Group",
@@ -948,13 +948,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -966,13 +966,13 @@
                               "name": "Seasonal",
                               "children": [             
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Miscellaneous Class",
@@ -988,7 +988,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -999,19 +999,19 @@
                      "name": "Weekly Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Daily Brushing",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -1022,13 +1022,13 @@
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1039,7 +1039,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1050,13 +1050,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -1067,7 +1067,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Terrier Group",
@@ -1078,13 +1078,13 @@
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -1100,7 +1100,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1118,13 +1118,13 @@
                               "name": "Seasonal",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -1140,7 +1140,7 @@
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1155,7 +1155,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -1171,25 +1171,25 @@
          "name": "Regular Exercise",
          "children": [
             {
-               "name": "Grooming",
+               "name": "grooming",
                "children": [
                   {
                      "name": "2-3 Times a Week Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                               {
                                  "name": "Infrequent",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                        {
                                           "name": "Independent",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Non-Sporting Group",
@@ -1200,13 +1200,13 @@
                                  "name": "Occasional",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Agreeable",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Non-Sporting Group",
@@ -1222,7 +1222,7 @@
                                              "name": "Easy Training",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Hound Group",
@@ -1243,7 +1243,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Hound Group",
@@ -1259,13 +1259,13 @@
                                  "name": "Regularly",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Agreeable",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Sporting Group",
@@ -1281,7 +1281,7 @@
                                              "name": "Eager to Please",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Sporting Group",
@@ -1297,7 +1297,7 @@
                                              "name": "Easy Training",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Sporting Group",
@@ -1313,7 +1313,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Foundation Stock Service",
@@ -1329,7 +1329,7 @@
                                              "name": "May be Stubborn",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                    {
                                                       "name": "Terrier Group",
@@ -1340,13 +1340,13 @@
                                  "name": "Seasonal",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Eager to Please",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Herding Group",
@@ -1362,7 +1362,7 @@
                                              "name": "Easy Training",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                    {
                                                       "name": "Non-Sporting Group",
@@ -1373,7 +1373,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Hound Group",
@@ -1395,19 +1395,19 @@
                      "name": "Daily Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Toy Group",
@@ -1418,13 +1418,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Working Group",
@@ -1435,7 +1435,7 @@
                                           "name": "Independent",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Toy Group",
@@ -1446,7 +1446,7 @@
                                           "name": "Eager to Please",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Miscellaneous Class",
@@ -1457,7 +1457,7 @@
                                           "name": "Easy Training",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Terrier Group",
@@ -1468,13 +1468,13 @@
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Terrier Group",
@@ -1485,7 +1485,7 @@
                                           "name": "Easy Training",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Working Group",
@@ -1496,7 +1496,7 @@
                                           "name": "May be Stubborn",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Working Group",
@@ -1507,7 +1507,7 @@
                                           "name": "Eager to Please",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                    {
                                                       "name": "Terrier Group",
@@ -1518,19 +1518,19 @@
                      "name": "Occasional Bath/Brush",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1546,7 +1546,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -1557,13 +1557,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -1574,7 +1574,7 @@
                                        "name": "Independent",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -1586,7 +1586,7 @@
                                        "name": "May be Stubborn",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Hound Group",
@@ -1597,13 +1597,13 @@
                               "name": "Seasonal",
                               "children": [             
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Non-Sporting Group",
@@ -1614,7 +1614,7 @@
                                           "name": "Eager to Please",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Toy Group",
@@ -1625,7 +1625,7 @@
                                           "name": "Easy Training",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Herding Group",
@@ -1636,7 +1636,7 @@
                                           "name": "Independent",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Herding Group",
@@ -1652,7 +1652,7 @@
                                           "name": "May be Stubborn",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Toy Group",
@@ -1663,19 +1663,19 @@
                      "name": "Specialty/Professional",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                            {
                               "name": "Regularly",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                        {
                                           "name": "Agreeable",
                                           "children": [
                                              {
-                                                "name": "Group",
+                                                "name": "group",
                                                 "children": [
                                                 {
                                                    "name": "Toy Group",
@@ -1686,13 +1686,13 @@
                               "name": "Infrequent",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Eager to Please",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Non-Sporting Group",
@@ -1703,13 +1703,13 @@
                               "name": "Occasional",
                               "children": [
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Sporting Group",
@@ -1720,13 +1720,13 @@
                               "name": "Seasonal",
                               "children": [             
                                  {
-                                    "name": "Trainability",
+                                    "name": "trainability",
                                     "children": [
                                     {
                                        "name": "Agreeable",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Toy Group",
@@ -1737,7 +1737,7 @@
                                        "name": "Easy Training",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Working Group",
@@ -1748,7 +1748,7 @@
                                        "name": "May be Stubborn",
                                        "children": [
                                           {
-                                             "name": "Group",
+                                             "name": "group",
                                              "children": [
                                              {
                                                 "name": "Herding Group",
@@ -1759,19 +1759,19 @@
                      "name": "Weekly Brushing",
                      "children": [
                         {
-                           "name": "Shedding",
+                           "name": "shedding",
                            "children": [
                               {
                                  "name": "Infrequent",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Agreeable",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Non-Sporting Group",
@@ -1787,7 +1787,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Herding Group",
@@ -1808,7 +1808,7 @@
                                              "name": "May be Stubborn",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                    {
                                                       "name": "Toy Group",
@@ -1819,13 +1819,13 @@
                                  "name": "Occasional",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Agreeable",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Terrier Group",
@@ -1846,7 +1846,7 @@
                                              "name": "Eager to Please",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Toy Group",
@@ -1857,7 +1857,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Hound Group",
@@ -1874,7 +1874,7 @@
                                              "name": "May be Stubborn",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Terrier Group",
@@ -1885,13 +1885,13 @@
                                  "name": "Seasonal",
                                  "children": [
                                     {
-                                       "name": "Trainability",
+                                       "name": "trainability",
                                        "children": [
                                           {
                                              "name": "Agreeable",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Foundation Stock Service",
@@ -1922,7 +1922,7 @@
                                              "name": "Eager to Please",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Herding Group",
@@ -1939,7 +1939,7 @@
                                              "name": "Easy Training",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Foundation Stock Service",
@@ -1965,7 +1965,7 @@
                                              "name": "Independent",
                                              "children": [
                                                 {
-                                                   "name": "Group",
+                                                   "name": "group",
                                                    "children": [
                                                       {
                                                          "name": "Foundation Stock Service",
