@@ -249,6 +249,17 @@
                                                    {"name": "Belgian Tervuren", "size": 1
                                                          }]}]}]},
                                     {
+                                       "name": "Independent",
+                                       "children": [
+                                          {
+                                             "name": "Group",
+                                             "children": [
+                                             {
+                                                "name": "Working Group",
+                                                "children": [
+                                                   {"name": "Alaskan Malamute", "size": 1}]}
+                                                         ]}]},
+                                    {
                                        "name": "Eager to Please",
                                        "children": [
                                           {
@@ -341,13 +352,13 @@
                                                          {"name": "Portuguese Water Dog", "size": 1}
                                                             ]}]}]},
                                        {
-                                          "name": "Independent",
+                                          "name": "May be Stubborn",
                                           "children": [
                                              {
                                                 "name": "Group",
                                                 "children": [
                                                    {
-                                                      "name": "Herding Group",
+                                                      "name": "Hound Group",
                                                       "children": [
                                                          {"name": "Afghan Hound", "size": 1}
                                                             ]}]}]}]}]}]}]},
@@ -390,23 +401,7 @@
                                                 "name": "Foundation Stock Service",
                                                 "children": [
                                                    {"name": "Great Dane", "size": 1
-                                                      }]},
-                                             {
-                                                "name": "Non-Sporting Group",
-                                                "children": [
-                                                   {"name": "Basenji", "size": 1
-                                                      }]}]}]},
-                                    {
-                                       "name": "Eager to Please",
-                                       "children": [
-                                          {
-                                             "name": "Group",
-                                             "children": [
-                                                {
-                                                   "name": "Non-Sporting Group",
-                                                   "children": [
-                                                      {"name": "Saluki", "size": 1
-                                                         }]}]}]}]}]},
+                                                      }]}]}]}]}]},
                            {
                               "name": "Occasional",
                               "children": [
@@ -425,7 +420,7 @@
                                                    {"name": "English Foxhound", "size": 1
                                                       }]},
                                              {
-                                                "name": "Non-Sporting Group",
+                                                "name": "Hound Group",
                                                 "children": [
                                                    {"name": "Basenji", "size": 1
                                                       }]}]}]},
@@ -548,7 +543,7 @@
                                                    {"name": "Pointer", "size": 1
                                                       }]}]}]},
                                     {
-                                       "name": "Independent",
+                                       "name": "Eager to Please",
                                        "children": [
                                           {
                                              "name": "Group",
@@ -679,7 +674,7 @@
                                              {
                                                 "name": "Foundation Stock Service",
                                                 "children": [
-                                                   {"name": "Great Swiss Mountain Dog", "size": 1
+                                                   {"name": "Greater Swiss Mountain Dog", "size": 1
                                                       }]}]}]}]}]},
                            {
                               "name": "Seasonal",
@@ -842,18 +837,8 @@
                                                       "name": "Non-Sporting Group",
                                                       "children": [
                                                          {"name": "Catahoula Leopard Dog", "size": 1}
-                                                            ]}]}]},
-                                       {
-                                          "name": "Independent",
-                                          "children": [
-                                             {
-                                                "name": "Group",
-                                                "children": [
-                                                   {
-                                                      "name": "Herding Group",
-                                                      "children": [
-                                                         {"name": "Afghan Hound", "size": 1}
-                                                            ]}]}]}]}]}]}]},
+                                                            ]}]}]}
+                                                            ]}]}]}]},
                   {
                      "name": "Occasional Bath/Brush",
                      "children": [
@@ -928,19 +913,13 @@
                                           {
                                              "name": "Group",
                                              "children": [
-                                             {
-                                                "name": "Terrier Group",
-                                                "children": [
-                                                   {"name": "Australian Cattle Dog", "size": 1
-                                                      }]}]}]},
-                                    {
-                                       "name": "Eager to Please",
-                                       "children": [
-                                          {
-                                             "name": "Group",
-                                             "children": [
                                                 {
-                                                   "name": "Non-Sporting Group",
+                                                   "name": "Terrier Group",
+                                                   "children": [
+                                                      {"name": "Australian Cattle Dog", "size": 1
+                                                         }]},
+                                                {
+                                                   "name": "Hound Group",
                                                    "children": [
                                                       {"name": "Saluki", "size": 1
                                                          }]}]}]}]}]},
@@ -1034,17 +1013,6 @@
                                                 "name": "Herding Group",
                                                 "children": [
                                                    {"name": "Dutch Shepherd", "size": 1
-                                                      }]}]}]},
-                                    {
-                                       "name": "Independent",
-                                       "children": [
-                                          {
-                                             "name": "Group",
-                                             "children": [
-                                             {
-                                                "name": "Herding Group",
-                                                "children": [
-                                                   {"name": "Australian Shepherd", "size": 1
                                                       }]}]}]}]}]},
                            {
                               "name": "Occasional",
@@ -1462,7 +1430,7 @@
                                                    {
                                                       "name": "Terrier Group",
                                                       "children": [
-                                                         {"name": "Briad", "size": 1
+                                                         {"name": "Briard", "size": 1
                                                             }]}]}]}]}]},
                            {
                               "name": "Regularly",
