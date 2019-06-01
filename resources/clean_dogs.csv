@@ -1,188 +1,188 @@
-energy,grooming,shedding,trainability,group,breed
-Calm,2-3 Times a Week Brushing,Infrequent,Agreeable,Foundation Stock Service,Bolognese
-Calm,2-3 Times a Week Brushing,Regularly,Independent,Foundation Stock Service,Caucasian Shepherd Dog
-Calm,2-3 Times a Week Brushing,Seasonal,May be Stubborn,Toy Group,Pekingese
-Calm,Daily Brushing,Seasonal,May be Stubborn,Herding Group,Polish Lowland Sheepdog
-Calm,Occasional Bath/Brush,Occasional,Agreeable,Working Group,Boerboel
-Calm,Occasional Bath/Brush,Occasional,Infrequent,Miscellaneous Class,Dogo Argentino
-Calm,Occasional Bath/Brush,Regularly,Agreeable,Non-Sporting Group,French Bulldog
-Calm,Weekly Brushing,Occasional,Eager to Please,Toy Group,Cavalier King Charles Spaniel
-Calm,Weekly Brushing,Regular Exercise,Independent,Foundation Stock Service,Treeing Tennessee Brindle
-Calm,Weekly Brushing,Seasonal,Agreeable,Non-Sporting Group,Tibetan Spaniel
-Energetic,2-3 Times a Week Brushing,Frequent,Agreeable,Terrier Group,Bedlington Terrier
-Energetic,2-3 Times a Week Brushing,Frequent,Easy Training,Working Group,Bernese Mountain Dog
-Energetic,2-3 Times a Week Brushing,Frequent,Independent,Working Group,Alaskan Malamute
-Energetic,2-3 Times a Week Brushing,Infrequent,Independent,Terrier Group,Soft Coated Wheaten Terrier
-Energetic,2-3 Times a Week Brushing,Occasional,Agreeable,Terrier Group,Welsh Terrier
-Energetic,2-3 Times a Week Brushing,Regularly,Agreeable,Sporting Group,Chesapeake Bay Retriever
-Energetic,2-3 Times a Week Brushing,Regularly,Easy Training,Sporting Group,English Setter
-Energetic,2-3 Times a Week Brushing,Seasonal,Agreeable,Hound Group,Beagle
-Energetic,2-3 Times a Week Brushing,Seasonal,Easy Training,Herding Group,Belgian Sheepdog
-Energetic,2-3 Times a Week Brushing,Seasonal,Easy Training,Herding Group,Belgian Tervuren
-Energetic,2-3 Times a Week Brushing,Seasonal,Independent,Non-Sporting Group,Tibetan Terrier
-Energetic,2-3 Times a Week Brushing,Seasonal,Independent,Working Group,Samoyed
-Energetic,Daily Brushing,Infrequent,May be Stubborn,Hound Group,Afghan Hound
-Energetic,Daily Brushing,Seasonal,Agreeable,Herding Group,Bouvier Des Flandres
-Energetic,Daily Brushing,Seasonal,Eager to Please,Working Group,Akita
-Energetic,Daily Brushing,Seasonal,Easy Training,Working Group,Black Russian Terrier
-Energetic,Daily Brushing,Seasonal,Easy Training,Working Group,Portuguese Water Dog
-Energetic,Occasional Bath/Brush,Infrequent,Agreeable,Non-Sporting Group,Xoloitzcuintli
-Energetic,Occasional Bath/Brush,Occasional,Agreeable,Hound Group,American English Coonhound
-Energetic,Occasional Bath/Brush,Occasional,Agreeable,Working Group,Cane Corso
-Energetic,Occasional Bath/Brush,Occasional,Eager to Please,Foundation Stock Service,Karelian Bear Dog
-Energetic,Occasional Bath/Brush,Occasional,Easy Training,Foundation Stock Service,Bracco Italiano
-Energetic,Occasional Bath/Brush,Occasional,Easy Training,Miscellaneous Class,Lancashire Heeler
-Energetic,Occasional Bath/Brush,Occasional,Independent,Hound Group,Basenji
-Energetic,Occasional Bath/Brush,Occasional,Independent,Hound Group,Greyhound
-Energetic,Occasional Bath/Brush,Occasional,Independent,Hound Group,Plott
-Energetic,Occasional Bath/Brush,Occasional,Independent,Hound Group,Saluki
-Energetic,Occasional Bath/Brush,Occasional,Independent,Sporting Group,Curly Coated Retriever
-Energetic,Occasional Bath/Brush,Regularly,Agreeable,Hound Group,English Foxhound
-Energetic,Occasional Bath/Brush,Seasonal,Agreeable,Working Group,Bullmastiff
-Energetic,Occasional Bath/Brush,Seasonal,Agreeable,Working Group,Great Dane
-Energetic,Occasional Bath/Brush,Seasonal,Easy Training,Foundation Stock Service,Stabyhoun
-Energetic,Occasional Bath/Brush,Seasonal,Independent,Hound Group,American Foxhound
-Energetic,Weekly Brushing,Frequent,Agreeable,Non-Sporting Group,Dalmatian
-Energetic,Weekly Brushing,Infrequent,Agreeable,Terrier Group,Australian Terrier
-Energetic,Weekly Brushing,Occasional,Agreeable,Sporting Group,Pointer
-Energetic,Weekly Brushing,Occasional,Eager to Please,Toy Group,Toy Fox Terrier
-Energetic,Weekly Brushing,Occasional,Easy Training,Working Group,Boxer
-Energetic,Weekly Brushing,Occasional,Independent,Hound Group,Petit Basset Griffon Vendeen
-Energetic,Weekly Brushing,Occasional,May be Stubborn,Terrier Group,Staffordshire Bull Terrier
-Energetic,Weekly Brushing,Regularly,Agreeable,Herding Group,Pembroke Welsh Corgi
-Energetic,Weekly Brushing,Regularly,Eager to Please,Foundation Stock Service,Australian Kelpie
-Energetic,Weekly Brushing,Regularly,Easy Training,Sporting Group,Welsh Springer Spaniel
-Energetic,Weekly Brushing,Seasonal,Agreeable,Herding Group,Cardigan Welsh Corgi
-Energetic,Weekly Brushing,Seasonal,Agreeable,Hound Group,Bluetick Coonhound
-Energetic,Weekly Brushing,Seasonal,Agreeable,Working Group,Greater Swiss Mountain Dog
-Energetic,Weekly Brushing,Seasonal,Eager to Please,Herding Group,Australian Shepherd
-Energetic,Weekly Brushing,Seasonal,Eager to Please,Herding Group,Icelandic Sheepdog
-Energetic,Weekly Brushing,Seasonal,Eager to Please,Non-Sporting Group,American Eskimo Dog
-Energetic,Weekly Brushing,Seasonal,Eager to Please,Sporting Group,Vizsla
-Energetic,Weekly Brushing,Seasonal,Eager to Please,Working Group,Chinook
-Energetic,Weekly Brushing,Seasonal,Easy Training,Herding Group,Belgian Malinois
-Energetic,Weekly Brushing,Seasonal,Easy Training,Herding Group,Norwegian Buhund
-Energetic,Weekly Brushing,Seasonal,Independent,Hound Group,Borzoi
-Energetic,Weekly Brushing,Seasonal,Independent,Hound Group,Pharaoh Hound
-Energetic,Weekly Brushing,Seasonal,Independent,Terrier Group,Bull Terrier
-Energetic,Weekly Brushing,Seasonal,Independent,Working Group,Siberian Husky
-Needs Lots of Activity,2-3 Times a Week Brushing,Seasonal,Agreeable,Sporting Group,Irish Setter
-Needs Lots of Activity,2-3 Times a Week Brushing,Seasonal,Eager to Please,Herding Group,Border Collie
-Needs Lots of Activity,2-3 Times a Week Brushing,Seasonal,Eager to Please,Sporting Group,Brittany
-Needs Lots of Activity,Daily Brushing,Regularly,Easy Training,Working Group,Giant Schnauzer
-Needs Lots of Activity,Occasional Bath/Brush,Infrequent,Independent,Herding Group,Entlebucher Mountain Dog
-Needs Lots of Activity,Occasional Bath/Brush,Occasional,Agreeable,Working Group,German Pinscher
-Needs Lots of Activity,Occasional Bath/Brush,Occasional,Eager to Please,Miscellaneous Class,Mudi
-Needs Lots of Activity,Occasional Bath/Brush,Occasional,Independent,Hound Group,Ibizan Hound
-Needs Lots of Activity,Occasional Bath/Brush,Regularly,Eager to Please,Working Group,Doberman Pinscher
-Needs Lots of Activity,Occasional Bath/Brush,Regularly,May be Stubborn,Herding Group,Australian Cattle Dog
-Needs Lots of Activity,Occasional Bath/Brush,Seasonal,Agreeable,Foundation Stock Service,Small Munsterlander Pointer
-Needs Lots of Activity,Occasional Bath/Brush,Seasonal,Eager to Please,Herding Group,Swedish Vallhund
-Needs Lots of Activity,Occasional Bath/Brush,Seasonal,Easy Training,Herding Group,Berger Picard
-Needs Lots of Activity,Occasional Bath/Brush,Seasonal,Independent,Foundation Stock Service,Catahoula Leopard Dog
-Needs Lots of Activity,Weekly Brushing,Occasional,Easy Training,Hound Group,Harrier
-Needs Lots of Activity,Weekly Brushing,Regularly,Eager to Please,Sporting Group,Flat Coated Retriever
-Needs Lots of Activity,Weekly Brushing,Regularly,Eager to Please,Sporting Group,German Shorthaired Pointer
-Needs Lots of Activity,Weekly Brushing,Regularly,Eager to Please,Sporting Group,German Wirehaired Pointer
-Needs Lots of Activity,Weekly Brushing,Regularly,Eager to Please,Sporting Group,Labrador Retriever
-Needs Lots of Activity,Weekly Brushing,Regularly,Easy Training,Sporting Group,Irish Red And White Setter
-Needs Lots of Activity,Weekly Brushing,Regularly,Easy Training,Sporting Group,Irish Water Spaniel
-Needs Lots of Activity,Weekly Brushing,Regularly,Easy Training,Sporting Group,Nova Scotia Duck Tolling Retriever
-Needs Lots of Activity,Weekly Brushing,Regularly,May be Stubborn,Foundation Stock Service,Appenzeller Sennenhunde
-Needs Lots of Activity,Weekly Brushing,Seasonal,Agreeable,Miscellaneous Class,Dutch Shepherd
-Needs Lots of Activity,Weekly Brushing,Seasonal,Agreeable,Non-Sporting Group,Finnish Spitz
-Needs Lots of Activity,Weekly Brushing,Seasonal,Agreeable,Sporting Group,Wirehaired Pointing Griffon
-Needs Lots of Activity,Weekly Brushing,Seasonal,Eager to Please,Sporting Group,Golden Retriever
-Needs Lots of Activity,Weekly Brushing,Seasonal,Eager to Please,Sporting Group,Weimaraner
-Needs Lots of Activity,Weekly Brushing,Seasonal,Independent,Sporting Group,Gordon Setter
-Needs Lots of Activity,Weekly Brushing,Seasonal,Independent,Working Group,Great Pyrenees
-Regular Exercise,2-3 Times a Week Brushing,Infrequent,Eager to Please,Sporting Group,American Water Spaniel
-Regular Exercise,2-3 Times a Week Brushing,Infrequent,Independent,Non-Sporting Group,Lhasa Apso
-Regular Exercise,2-3 Times a Week Brushing,Infrequent,Independent,Working Group,Standard Schnauzer
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Agreeable,Toy Group,Silky Terrier
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Eager to Please,Sporting Group,English Cocker Spaniel
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Eager to Please,Terrier Group,Airedale Terrier
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Easy Training,Toy Group,Havanese
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Independent,Terrier Group,Glen Of Imaal Terrier
-Regular Exercise,2-3 Times a Week Brushing,Occasional,Independent,Terrier Group,Scottish Terrier
-Regular Exercise,2-3 Times a Week Brushing,Regularly,Agreeable,Non-Sporting Group,Bulldog
-Regular Exercise,2-3 Times a Week Brushing,Regularly,May be Stubborn,Terrier Group,Kerry Blue Terrier
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Agreeable,Toy Group,Brussels Griffon
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Agreeable,Toy Group,Pomeranian
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Eager to Please,Herding Group,Shetland Sheepdog
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Eager to Please,Sporting Group,Boykin Spaniel
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Easy Training,Herding Group,Collie
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Easy Training,Non-Sporting Group,Keeshond
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Easy Training,Toy Group,Affenpinscher
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Independent,Herding Group,Old English Sheepdog
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Independent,Sporting Group,Sussex Spaniel
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Independent,Terrier Group,Sealyham Terrier
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Independent,Toy Group,English Toy Spaniel
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,Independent,Working Group,Tibetan Mastiff
-Regular Exercise,2-3 Times a Week Brushing,Seasonal,May be Stubborn,Non-Sporting Group,Chow Chow
-Regular Exercise,Daily Brushing,Infrequent,Agreeable,Toy Group,Maltese
-Regular Exercise,Daily Brushing,Infrequent,Agreeable,Toy Group,Shih Tzu
-Regular Exercise,Daily Brushing,Infrequent,Independent,Herding Group,Briard
-Regular Exercise,Daily Brushing,Infrequent,Independent,Terrier Group,Dandie Dinmont Terrier
-Regular Exercise,Daily Brushing,Occasional,Eager to Please,Sporting Group,Cocker Spaniel
-Regular Exercise,Daily Brushing,Occasional,Easy Training,Non-Sporting Group,Coton De Tulear
-Regular Exercise,Daily Brushing,Regularly,Eager to Please,Working Group,Leonberger
-Regular Exercise,Daily Brushing,Seasonal,Independent,Herding Group,Bearded Collie
-Regular Exercise,Daily Brushing,Seasonal,Independent,Terrier Group,Skye Terrier
-Regular Exercise,Occasional Bath/Brush,Infrequent,Agreeable,Toy Group,Chinese Crested
-Regular Exercise,Occasional Bath/Brush,Occasional,Agreeable,Terrier Group,American Staffordshire Terrier
-Regular Exercise,Occasional Bath/Brush,Occasional,Agreeable,Terrier Group,Irish Terrier
-Regular Exercise,Occasional Bath/Brush,Occasional,Agreeable,Working Group,Mastiff
-Regular Exercise,Occasional Bath/Brush,Occasional,Agreeable,Working Group,Rottweiler
-Regular Exercise,Occasional Bath/Brush,Occasional,Independent,Hound Group,Whippet
-Regular Exercise,Occasional Bath/Brush,Occasional,Independent,Toy Group,Chihuahua
-Regular Exercise,Occasional Bath/Brush,Occasional,Independent,Toy Group,Miniature Pinscher
-Regular Exercise,Occasional Bath/Brush,Regularly,Agreeable,Working Group,Dogue De Bordeaux
-Regular Exercise,Occasional Bath/Brush,Regularly,May be Stubborn,Non-Sporting Group,Chinese Shar Pei
-Regular Exercise,Occasional Bath/Brush,Seasonal,Independent,Hound Group,Scottish Deerhound
-Regular Exercise,Occasional Bath/Brush,Seasonal,Independent,Hound Group,Treeing Walker Coonhound
-Regular Exercise,Occasional Bath/Brush,Seasonal,Independent,Toy Group,Italian Greyhound
-Regular Exercise,Specialty/Professional,Infrequent,Agreeable,Non-Sporting Group,Bichon Frise
-Regular Exercise,Specialty/Professional,Infrequent,Eager to Please,Non-Sporting Group,Poodle
-Regular Exercise,Specialty/Professional,Infrequent,Independent,Herding Group,Puli
-Regular Exercise,Specialty/Professional,Infrequent,May be Stubborn,Toy Group,Yorkshire Terrier
-Regular Exercise,Specialty/Professional,Seasonal,Eager to Please,Terrier Group,Miniature Schnauzer
-Regular Exercise,Specialty/Professional,Seasonal,Independent,Working Group,Komondor
-Regular Exercise,Weekly Brushing,Frequent,Independent,Herding Group,Canaan Dog
-Regular Exercise,Weekly Brushing,Infrequent,Agreeable,Miscellaneous Class,Barbet
-Regular Exercise,Weekly Brushing,Infrequent,Eager to Please,Non-Sporting Group,Boston Terrier
-Regular Exercise,Weekly Brushing,Occasional,Agreeable,Hound Group,Dachshund
-Regular Exercise,Weekly Brushing,Occasional,Agreeable,Hound Group,Norwegian Elkhound
-Regular Exercise,Weekly Brushing,Occasional,Agreeable,Non-Sporting Group,Lowchen
-Regular Exercise,Weekly Brushing,Occasional,Agreeable,Terrier Group,Cairn Terrier
-Regular Exercise,Weekly Brushing,Occasional,Agreeable,Terrier Group,Cesky Terrier
-Regular Exercise,Weekly Brushing,Occasional,Eager to Please,Sporting Group,English Springer Spaniel
-Regular Exercise,Weekly Brushing,Occasional,Easy Training,Terrier Group,Border Terrier
-Regular Exercise,Weekly Brushing,Occasional,Easy Training,Terrier Group,Manchester Terrier
-Regular Exercise,Weekly Brushing,Occasional,Independent,Hound Group,Azawakh
-Regular Exercise,Weekly Brushing,Occasional,May be Stubborn,Hound Group,Otterhound
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Sporting Group,Clumber Spaniel
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Sporting Group,Field Spaniel
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Terrier Group,Lakeland Terrier
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Terrier Group,Norfolk Terrier
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Terrier Group,Norwich Terrier
-Regular Exercise,Weekly Brushing,Regularly,Agreeable,Toy Group,Pug
-Regular Exercise,Weekly Brushing,Regularly,Eager to Please,Herding Group,German Shepherd Dog
-Regular Exercise,Weekly Brushing,Regularly,Easy Training,Working Group,Newfoundland
-Regular Exercise,Weekly Brushing,Regularly,Independent,Working Group,Kuvasz
-Regular Exercise,Weekly Brushing,Regularly,May be Stubborn,Working Group,Neapolitan Mastiff
-Regular Exercise,Weekly Brushing,Seasonal,Agreeable,Herding Group,Pyrenean Shepherd
-Regular Exercise,Weekly Brushing,Seasonal,Agreeable,Hound Group,Rhodesian Ridgeback
-Regular Exercise,Weekly Brushing,Seasonal,Agreeable,Non-Sporting Group,Norwegian Lundehund
-Regular Exercise,Weekly Brushing,Seasonal,Eager to Please,Herding Group,Finnish Lapphund
-Regular Exercise,Weekly Brushing,Seasonal,Eager to Please,Sporting Group,Kooikerhondje
-Regular Exercise,Weekly Brushing,Seasonal,Eager to Please,Toy Group,Papillon
-Regular Exercise,Weekly Brushing,Seasonal,Easy Training,Hound Group,Redbone Coonhound
-Regular Exercise,Weekly Brushing,Seasonal,Easy Training,Terrier Group,Rat Terrier
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Hound Group,Black And Tan Coonhound
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Hound Group,Bloodhound
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Hound Group,Irish Wolfhound
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Non-Sporting Group,Schipperke
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Non-Sporting Group,Shiba Inu
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Toy Group,Japanese Chin
-Regular Exercise,Weekly Brushing,Seasonal,Independent,Working Group,Anatolian Shepherd Dog
+breed,group,temperament1,temperament2,temperament3,life_expectancy_years,avg_height_inch,avg_weight_pounds,energy,grooming,trainability,shedding
+Affenpinscher,Toy Group,Confident, Famously Funny, Fearless,19.5,10.25,8.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
+Afghan Hound,Hound Group,Independent, Sweet, Regal,21.0,26.0,55.0,Energetic,Daily Brushing,May be Stubborn,Infrequent
+Airedale Terrier,Terrier Group,Friendly, Clever, Courageous,18.0,23.0,60.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional
+Akita,Working Group,Courageous, Dignified, Profoundly Loyal,16.5,27.0,115.0,Energetic,Daily Brushing,Eager to Please,Seasonal
+Alaskan Malamute,Working Group,Affectionate, Loyal, Playful,17.0,25.0,0.0,Energetic,2-3 Times a Week Brushing,Independent,2-3 Times a Week Brushing
+American English Coonhound,Hound Group,Sweet, Mellow, Sociable,17.0,25.0,55.0,Energetic,Occasional Bath/Brush,Agreeable,Occasional
+American Eskimo Dog,Non-Sporting Group,Playful, Perky, Smart,20.5,10.5,8.0,Energetic,Weekly Brushing,Eager to Please,Seasonal
+American Foxhound,Hound Group,Independent, Easy-Going, Sweet-Tempered,17.5,23.5,67.5,Energetic,Occasional Bath/Brush,Independent,Seasonal
+American Staffordshire Terrier,Terrier Group,Confident, Smart, Good-Natured,20.0,18.5,62.5,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional
+American Water Spaniel,Sporting Group,Eager, Happy, Charming,17.0,16.5,37.5,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Infrequent
+Anatolian Shepherd Dog,Working Group,Loyal, Independent, Reserved,17.5,29.0,130.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Appenzeller Sennenhunde,Foundation Stock Service,Agile, Versatile, Lively,19.5,20.5,59.0,Needs Lots of Activity,Weekly Brushing,May be Stubborn,Regularly
+Australian Cattle Dog,Herding Group,Alert, Curious, Pleasant,20.0,19.0,42.5,Needs Lots of Activity,Occasional Bath/Brush,May be Stubborn,Regularly
+Australian Kelpie,Foundation Stock Service,Loyal, Alert, Intelligent,16.5,18.5,38.5,Energetic,Weekly Brushing,Eager to Please,Regularly
+Australian Shepherd,Herding Group,Smart, Work-Oriented, Exuberant,19.5,21.5,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
+Australian Terrier,Terrier Group,Affectionate, Courageous, Spirited,18.5,10.5,17.5,Energetic,Weekly Brushing,Agreeable,Infrequent
+Azawakh,Hound Group,Loyal, Independent, Deeply Affectionate,19.5,27.0,49.5,Regular Exercise,Weekly Brushing,Independent,Occasional
+Barbet,Miscellaneous Class,Friendly, Bright, Sweet-Natured,19.0,21.75,50.0,Regular Exercise,Weekly Brushing,Agreeable,Infrequent
+Basenji,Hound Group,Independent, Smart, Poised,20.0,17.0,0.0,Energetic,Occasional Bath/Brush,Independent,Occasional
+Beagle,Hound Group,Friendly, Curious, Merry,17.5,13.0,23.0,Energetic,2-3 Times a Week Brushing,Agreeable,Seasonal
+Bearded Collie,Herding Group,Smart, Bouncy, Charismatic,19.0,21.5,50.0,Regular Exercise,Daily Brushing,Independent,Seasonal
+Bedlington Terrier,Terrier Group,Loyal, Charming, Frollicking,19.0,16.25,20.0,Energetic,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing
+Belgian Malinois,Herding Group,Confident, Smart, Hardworking,22.0,25.0,70.0,Energetic,Weekly Brushing,Easy Training,Seasonal
+Belgian Sheepdog,Herding Group,Bright, Watchful, Serious-Minded,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal
+Belgian Tervuren,Herding Group,Courageous, Alert, Intelligent,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal
+Berger Picard,Herding Group,Loyal, Good-Natured, Observant,18.5,24.5,60.0,Needs Lots of Activity,Occasional Bath/Brush,Easy Training,Seasonal
+Bernese Mountain Dog,Working Group,Good-Natured, Calm, Strong,12.0,26.25,97.5,Energetic,2-3 Times a Week Brushing,Easy Training,Frequent
+Bichon Frise,Non-Sporting Group,Playful, Curious, Peppy,21.5,10.5,15.0,Regular Exercise,Specialty/Professional,Agreeable,Infrequent
+Black And Tan Coonhound,Hound Group,Easy-Going, Bright, Brave,16.0,26.0,87.5,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Black Russian Terrier,Working Group,Intelligent, Calm, Powerful,16.0,28.5,105.0,Energetic,Daily Brushing,Easy Training,Seasonal
+Bloodhound,Hound Group,Friendly, Independent, Inquisitive,16.0,26.0,100.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Bluetick Coonhound,Hound Group,Smart, Devoted, Tenacious,17.0,24.5,67.5,Energetic,Weekly Brushing,Agreeable,Seasonal
+Boerboel,Working Group,Confident, Intelligent, Calm,14.5,25.5,175.0,Calm,Occasional Bath/Brush,Agreeable,Occasional
+Bolognese,Foundation Stock Service,Playful, Easy-Going, Devoted,19.0,11.0,7.25,Calm,2-3 Times a Week Brushing,Agreeable,Infrequent
+Border Collie,Herding Group,Affectionate, Smart, Energetic,19.5,20.5,42.5,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal
+Border Terrier,Terrier Group,Affectionate, Happy, Plucky,19.5,13.5,14.25,Regular Exercise,Weekly Brushing,Easy Training,Occasional
+Borzoi,Hound Group,Affectionate, Loyal, Regally Dignified,16.0,28.0,90.0,Energetic,Weekly Brushing,Independent,Seasonal
+Boston Terrier,Non-Sporting Group,Friendly, Bright, Amusing,17.5,16.0,18.5,Regular Exercise,Weekly Brushing,Eager to Please,Infrequent
+Bouvier Des Flandres,Herding Group,Affectionate, Courageous, Strong-Willed,16.0,26.0,90.0,Energetic,Daily Brushing,Agreeable,Seasonal
+Boxer,Working Group,Bright, Fun-Loving, Active,16.0,24.0,72.5,Energetic,Weekly Brushing,Easy Training,Occasional
+Boykin Spaniel,Sporting Group,Friendly, Eager, Lovable,17.5,16.75,35.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal
+Bracco Italiano,Foundation Stock Service,Affectionate, Intelligent, Enthusiastic,17.0,24.0,72.5,Energetic,Occasional Bath/Brush,Easy Training,Occasional
+Briard,Herding Group,Confident, Smart, Faithful,12.0,25.0,77.5,Regular Exercise,Daily Brushing,Independent,Infrequent
+Brittany,Sporting Group,Bright, Fun-Loving, Upbeat,19.0,19.0,35.0,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal
+Brussels Griffon,Toy Group,Loyal, Alert, Curious,19.5,8.5,9.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal
+Bull Terrier,Terrier Group,Playful, Charming, Mischievous,18.5,21.5,60.0,Energetic,Weekly Brushing,Independent,Seasonal
+Bulldog,Non-Sporting Group,Friendly, Courageous, Calm,13.0,14.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Regularly
+Bullmastiff,Working Group,Affectionate, Loyal, Brave,11.5,26.0,120.0,Energetic,Occasional Bath/Brush,Agreeable,Seasonal
+Cairn Terrier,Terrier Group,Alert, Cheerful, Busy,20.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
+Canaan Dog,Herding Group,Confident, Alert, Vigilant,19.5,22.0,50.0,Regular Exercise,Weekly Brushing,Independent,Frequent
+Cane Corso,Working Group,Affectionate, Intelligent, Majestic,15.0,26.25,104.5,Energetic,Occasional Bath/Brush,Agreeable,Occasional
+Cardigan Welsh Corgi,Herding Group,Affectionate, Loyal, Smart,19.5,11.5,34.0,Energetic,Weekly Brushing,Agreeable,Seasonal
+Catahoula Leopard Dog,Foundation Stock Service,Loyal, Independent, Watchful,17.0,23.0,72.5,Needs Lots of Activity,Needs Lots of Activity,Independent,Reserved with Strangers
+Caucasian Shepherd Dog,Foundation Stock Service,Fearless, Bold, Kind,16.0,26.5,134.5,Calm,2-3 Times a Week Brushing,Independent,Regularly
+Cavalier King Charles Spaniel,Toy Group,Affectionate, Gentle, Graceful,19.5,12.5,15.5,Calm,Weekly Brushing,Eager to Please,Occasional
+Cesky Terrier,Terrier Group,Clever, Adventurous, Family-Oriented,19.5,11.5,19.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
+Chesapeake Bay Retriever,Sporting Group,Affectionate, Bright, Sensitive,16.5,24.5,72.5,Energetic,2-3 Times a Week Brushing,Agreeable,Regularly
+Chihuahua,Toy Group,Charming, Graceful, Sassy,22.0,6.5,4.949999999999999,Regular Exercise,Occasional Bath/Brush,Independent,Occasional
+Chinese Crested,Toy Group,Affectionate, Alert, Lively,22.0,12.0,10.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Infrequent
+Chinese Shar Pei,Non-Sporting Group,Loyal, Independent, Calm,14.0,19.0,52.5,Regular Exercise,Occasional Bath/Brush,May be Stubborn,Regularly
+Chinook,Working Group,Smart, Patient, Devoted,19.5,25.0,72.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
+Chow Chow,Non-Sporting Group,Dignified, Bright, Serious-Minded,14.0,18.5,57.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,Seasonal
+Clumber Spaniel,Sporting Group,Mellow, Amusing, Gentlemanly,16.0,19.0,77.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly
+Cocker Spaniel,Sporting Group,Gentle, Smart, Happy,17.0,15.0,27.5,Regular Exercise,Daily Brushing,Eager to Please,Occasional
+Collie,Herding Group,Devoted, Graceful, Proud,19.0,25.0,67.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
+Coton De Tulear,Non-Sporting Group,Charming, Bright, Happy-Go-Lucky,24.5,10.5,12.0,Regular Exercise,Daily Brushing,Easy Training,Occasional
+Curly Coated Retriever,Sporting Group,Confident, Proud, Wickedly Smart,16.0,26.0,77.5,Energetic,Occasional Bath/Brush,Independent,Occasional
+Dachshund,Hound Group,Friendly, Curious, Spunky,20.0,8.5,24.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
+Dalmatian,Non-Sporting Group,Dignified, Smart, Outgoing,17.5,21.5,57.5,Energetic,Weekly Brushing,Agreeable,Frequent
+Dandie Dinmont Terrier,Terrier Group,Independent, Smart, Proud,19.5,9.5,21.0,Regular Exercise,Daily Brushing,Independent,Infrequent
+Doberman Pinscher,Working Group,Loyal, Fearless, Alert,16.0,27.0,87.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Regularly
+Dogo Argentino,Miscellaneous Class,Friendly, Cheerful, Humble,16.5,25.5,90.0,Calm,Occasional Bath/Brush,Infrequent,Needs Lots of Activity
+Dogue De Bordeaux,Working Group,Affectionate, Loyal, Courageous,9.0,23.27,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Regularly
+Dutch Shepherd,Miscellaneous Class,Intelligent, Lively, Athletic,18.0,23.0,58.5,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
+English Cocker Spaniel,Sporting Group,Energetic, Merry, Responsive,19.0,16.5,31.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional
+English Foxhound,Hound Group,Affectionate, Gentle, Sociable,16.5,24.0,67.5,Energetic,Occasional Bath/Brush,Agreeable,Regularly
+English Setter,Sporting Group,Friendly, Mellow, Merry,12.0,26.0,72.5,Energetic,2-3 Times a Week Brushing,Easy Training,Regularly
+English Springer Spaniel,Sporting Group,Friendly, Playful, Obedient,19.0,20.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Occasional
+English Toy Spaniel,Toy Group,Gentle, Playful, Intelligent,16.0,9.5,11.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
+Entlebucher Mountain Dog,Herding Group,Loyal, Smart, Enthusiastic,17.5,19.0,57.5,Needs Lots of Activity,Occasional Bath/Brush,Independent,Infrequent
+Field Spaniel,Sporting Group,Sweet, Fun-Loving, Sensitive,18.5,18.0,42.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly
+Finnish Lapphund,Herding Group,Friendly, Alert, Agile,19.5,19.5,43.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
+Finnish Spitz,Non-Sporting Group,Friendly, Good-Natured, Lively,20.5,18.75,29.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
+Flat Coated Retriever,Sporting Group,Cheerful, Optimistic, Good-Humored,13.0,23.75,65.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
+French Bulldog,Non-Sporting Group,Adaptable, Playful, Smart,16.0,12.0,0.0,Calm,Occasional Bath/Brush,Agreeable,Regularly
+German Pinscher,Working Group,Courageous, Intelligent, Vivacious,19.0,18.5,35.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Occasional
+German Shepherd Dog,Herding Group,Confident, Courageous, Smart,12.0,25.0,77.5,Regular Exercise,Weekly Brushing,Eager to Please,Regularly
+German Shorthaired Pointer,Sporting Group,Friendly, Smart, Willing to Please,16.0,24.0,62.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
+German Wirehaired Pointer,Sporting Group,Affectionate, Eager, Enthusiastic,22.0,25.0,60.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
+Giant Schnauzer,Working Group,Loyal, Alert, Trainable,19.5,26.5,72.5,Needs Lots of Activity,Daily Brushing,Easy Training,Daily Brushing
+Glen Of Imaal Terrier,Terrier Group,Gentle, Spirited, Bold,17.5,13.25,36.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional
+Golden Retriever,Sporting Group,Friendly, Intelligent, Devoted,16.0,23.5,70.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal
+Gordon Setter,Sporting Group,Affectionate, Confident, Bold,18.5,25.5,67.5,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal
+Great Dane,Working Group,Friendly, Patient, Dependable,12.0,31.0,157.5,Energetic,Occasional Bath/Brush,Agreeable,Seasonal
+Great Pyrenees,Working Group,Smart, Patient, Calm,16.0,29.5,0.0,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal
+Greater Swiss Mountain Dog,Working Group,Faithful, Family-Oriented, Dependable,13.5,27.0,127.5,Energetic,Weekly Brushing,Agreeable,Seasonal
+Greyhound,Hound Group,Gentle, Independent, Noble,16.5,29.0,67.5,Energetic,Occasional Bath/Brush,Independent,Occasional
+Harrier,Hound Group,Friendly, Outgoing, People-Oriented,19.5,20.0,24.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Occasional
+Havanese,Toy Group,Intelligent, Outgoing, Funny,22.0,10.0,10.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Occasional
+Ibizan Hound,Hound Group,Family-Oriented, Even-Tempered, Polite,18.0,25.5,0.0,Needs Lots of Activity,Occasional Bath/Brush,Independent,Occasional
+Icelandic Sheepdog,Herding Group,Friendly, Playful, Inquisitive,19.0,18.0,0.0,Energetic,Weekly Brushing,Eager to Please,Seasonal
+Irish Red And White Setter,Sporting Group,Courageous, Spirited, Determined,18.5,25.25,51.0,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
+Irish Setter,Sporting Group,Active, Outgoing, Sweet-Natured,19.5,27.0,0.0,Needs Lots of Activity,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing
+Irish Terrier,Terrier Group,Bold, Dashing, Tenderhearted,20.5,18.0,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush
+Irish Water Spaniel,Sporting Group,Playful, Hardworking, Brave,18.5,23.0,61.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
+Irish Wolfhound,Hound Group,Courageous, Dignified, Calm,10.0,32.0,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Italian Greyhound,Toy Group,Playful, Alert, Sensitive,21.5,14.0,10.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
+Japanese Chin,Toy Group,Charming, Noble, Loving,16.0,9.5,9.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Karelian Bear Dog,Foundation Stock Service,Loyal, Independent, Courageous,17.5,21.25,46.5,Energetic,Occasional Bath/Brush,Seasonal,Calm
+Keeshond,Non-Sporting Group,Friendly, Lively, Outgoing,19.5,18.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
+Kerry Blue Terrier,Terrier Group,Smart, Alert, People-Oriented,19.5,18.75,36.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,2-3 Times a Week Brushing
+Komondor,Working Group,Loyal, Dignified, Brave,16.0,27.5,0.0,Regular Exercise,Specialty/Professional,Independent,Specialty/Professional
+Kooikerhondje,Sporting Group,Friendly, Alert, Quick,19.5,16.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
+Kuvasz,Working Group,Loyal, Fearless, Sweet,16.0,29.0,107.5,Regular Exercise,Weekly Brushing,Independent,Weekly Brushing
+Labrador Retriever,Sporting Group,Friendly, Active, Outgoing,16.0,23.5,72.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Weekly Brushing
+Lakeland Terrier,Terrier Group,Friendly, Confident, Bold,19.5,14.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
+Lancashire Heeler,Miscellaneous Class,Affectionate, Versatile, Intelligent,19.5,11.0,13.0,Energetic,Occasional Bath/Brush,Easy Training,Occasional Bath/Brush
+Leonberger,Working Group,Friendly, Gentle, Playful,7.0,29.75,140.0,Regular Exercise,Daily Brushing,Eager to Please,Daily Brushing
+Lhasa Apso,Non-Sporting Group,Confident, Smart, Comical,19.5,10.5,15.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent
+Lowchen,Non-Sporting Group,Affectionate, Outgoing, Positive,20.5,13.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
+Maltese,Toy Group,Gentle, Playful, Charming,19.5,8.0,0.0,Regular Exercise,Daily Brushing,Agreeable,Infrequent
+Manchester Terrier,Terrier Group,Spirited, Bright, Keenly Observant,23.5,15.5,17.0,Regular Exercise,Weekly Brushing,Easy Training,Occasional
+Mastiff,Working Group,Courageous, Dignified, Good-Natured,11.0,30.0,195.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush
+Miniature Pinscher,Toy Group,Fearless, Fun-Loving, Proud,20.0,11.25,9.0,Regular Exercise,Occasional Bath/Brush,Independent,Occasional Bath/Brush
+Miniature Schnauzer,Terrier Group,Friendly, Smart, Obedient,19.5,13.0,15.5,Regular Exercise,Specialty/Professional,Eager to Please,Specialty/Professional
+Mudi,Miscellaneous Class,Loyal, Intelligent, Active,19.0,16.75,23.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Occasional
+Neapolitan Mastiff,Working Group,Loyal, Dignified, Watchful,11.5,28.5,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Weekly Brushing
+Newfoundland,Working Group,Sweet, Patient, Devoted,14.0,28.0,140.0,Regular Exercise,Weekly Brushing,Easy Training,Weekly Brushing
+Norfolk Terrier,Terrier Group,Fearless, Alert, Fun-Loving,20.0,9.5,11.5,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
+Norwegian Buhund,Herding Group,Confident, Smart, Perceptive,19.5,17.75,35.5,Energetic,Weekly Brushing,Easy Training,Seasonal
+Norwegian Elkhound,Hound Group,Friendly, Confident, Dependable,19.5,20.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
+Norwegian Lundehund,Non-Sporting Group,Loyal, Energetic, Alert,19.5,14.0,25.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
+Norwich Terrier,Terrier Group,Affectionate, Loyal, Alert,19.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
+Nova Scotia Duck Tolling Retriever,Sporting Group,Affectionate, Intelligent, Outgoing,19.0,19.5,42.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
+Old English Sheepdog,Herding Group,Adaptable, Gentle, Smart,16.0,22.0,80.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
+Otterhound,Hound Group,Even-Tempered, Amiable, Boisterous,16.5,27.0,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Occasional
+Papillon,Toy Group,Friendly, Alert, Happy,22.0,9.5,7.5,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
+Pekingese,Toy Group,Affectionate, Loyal, Regal in Manner,19.0,7.5,0.0,Calm,2-3 Times a Week Brushing,May be Stubborn,Seasonal
+Pembroke Welsh Corgi,Herding Group,Affectionate, Smart, Alert,18.5,11.0,0.0,Energetic,Weekly Brushing,Agreeable,Regularly
+Petit Basset Griffon Vendeen,Hound Group,Alert, Happy, Vivacious,22.0,14.0,32.5,Energetic,Weekly Brushing,Independent,Occasional
+Pharaoh Hound,Hound Group,Friendly, Smart, Noble,19.0,24.0,50.0,Energetic,Weekly Brushing,Independent,Seasonal
+Plott,Hound Group,Loyal, Alert, Intelligent,19.0,22.5,55.0,Energetic,Occasional Bath/Brush,Independent,Occasional
+Pointer,Sporting Group,Loyal, Hardworking, Even-Tempered,20.5,26.5,65.0,Energetic,Weekly Brushing,Agreeable,Occasional
+Polish Lowland Sheepdog,Herding Group,Confident, Clever, Lively,19.0,19.0,40.0,Calm,Daily Brushing,May be Stubborn,Seasonal
+Pomeranian,Toy Group,Inquisitive, Bold, Lively,20.0,6.5,5.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal
+Poodle,Non-Sporting Group,Active, Proud, Very Smart,19.0,12.5,12.5,Regular Exercise,Specialty/Professional,Eager to Please,Infrequent
+Portuguese Water Dog,Working Group,Affectionate, Adventurous, Athletic,17.5,21.5,51.0,Energetic,Daily Brushing,Easy Training,Seasonal
+Pug,Toy Group,Charming, Mischievous, Loving,20.5,11.5,16.0,Regular Exercise,Weekly Brushing,Agreeable,Regularly
+Puli,Herding Group,Loyal, Smart, Home-Loving,17.5,17.0,30.0,Regular Exercise,Specialty/Professional,Independent,Infrequent
+Pyrenean Shepherd,Herding Group,Affectionate, Active, Enthusiastic,23.5,17.0,22.5,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
+Rat Terrier,Terrier Group,Friendly, Inquisitive, Lovable,21.0,11.5,17.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal
+Redbone Coonhound,Hound Group,Even-Tempered, Amiable, Eager to Please,19.5,24.5,57.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal
+Rhodesian Ridgeback,Hound Group,Affectionate, Dignified, Even-Tempered,16.0,26.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
+Rottweiler,Working Group,Loyal, Loving, Confident Guardian,14.0,25.5,115.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional
+Saluki,Hound Group,Gentle, Dignified, Independent-Minded,18.5,25.5,52.5,Energetic,Occasional Bath/Brush,Independent,Occasional
+Samoyed,Working Group,Adaptable, Friendly, Gentle,19.0,22.25,55.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal
+Schipperke,Non-Sporting Group,Confident, Alert, Curious,19.0,12.0,13.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Scottish Deerhound,Hound Group,Gentle, Dignified, Polite,13.5,31.0,97.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
+Scottish Terrier,Terrier Group,Confident, Independent, Spirited,12.0,10.0,20.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional
+Sealyham Terrier,Terrier Group,Alert, Outgoing, Sense Of Humor,19.0,10.5,23.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
+Shetland Sheepdog,Herding Group,Playful, Energetic, Bright,19.0,14.5,20.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal
+Shiba Inu,Non-Sporting Group,Alert, Active, Attentive,21.0,15.5,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
+Shih Tzu,Toy Group,Affectionate, Playful, Outgoing,19.0,9.75,12.5,Regular Exercise,Daily Brushing,Agreeable,Infrequent
+Siberian Husky,Working Group,Loyal, Outgoing, Mischevious,19.0,22.25,52.5,Energetic,Weekly Brushing,Independent,Seasonal
+Silky Terrier,Toy Group,Friendly, Quick, Keenly Alert,20.5,9.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Occasional
+Skye Terrier,Terrier Group,Courageous, Good-Tempered, Canny,19.0,10.0,40.0,Regular Exercise,Daily Brushing,Independent,Seasonal
+Small Munsterlander Pointer,Foundation Stock Service,Intelligent, Devoted, Self-Confident,19.0,20.75,50.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Seasonal
+Soft Coated Wheaten Terrier,Terrier Group,Friendly, Happy, Deeply Devoted,19.0,18.5,37.5,Energetic,2-3 Times a Week Brushing,Independent,Infrequent
+Stabyhoun,Foundation Stock Service,Intelligent, Responsive, Loving,20.5,20.0,50.0,Energetic,Occasional Bath/Brush,Easy Training,Seasonal
+Staffordshire Bull Terrier,Terrier Group,Clever, Brave, Tenacious,19.0,15.0,33.0,Energetic,Weekly Brushing,May be Stubborn,Occasional
+Standard Schnauzer,Working Group,Fearless, Smart, Spirited,21.0,19.0,42.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent
+Sussex Spaniel,Sporting Group,Friendly, Merry, Even-Tempered,20.5,14.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
+Swedish Vallhund,Herding Group,Friendly, Energetic, Watchful,19.5,13.125,27.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Seasonal
+Tibetan Mastiff,Working Group,Independent, Reserved, Intelligent,16.0,26.0,120.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
+Tibetan Spaniel,Non-Sporting Group,Playful, Bright, Self-Confident,19.5,10.0,12.0,Calm,Weekly Brushing,Agreeable,Seasonal
+Tibetan Terrier,Non-Sporting Group,Affectionate, Loyal, Sensitive,23.0,15.5,24.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal
+Toy Fox Terrier,Toy Group,Friendly, Alert, Intelligent,20.5,10.0,5.25,Energetic,Weekly Brushing,Eager to Please,Occasional
+Treeing Tennessee Brindle,Foundation Stock Service,Friendly, Alert, Intelligent,16.0,20.0,40.0,Calm,Weekly Brushing,Occasional,Regular Exercise
+Treeing Walker Coonhound,Hound Group,Smart, Brave, Courteous,18.5,24.5,60.0,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
+Vizsla,Sporting Group,Affectionate, Gentle, Energetic,19.0,23.0,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
+Weimaraner,Sporting Group,Friendly, Fearless, Obedient,16.5,26.0,80.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal
+Welsh Springer Spaniel,Sporting Group,Happy, Reserved, Upbeat,19.5,18.5,47.5,Energetic,Weekly Brushing,Easy Training,Weekly Brushing
+Welsh Terrier,Terrier Group,Friendly, Spirited, Intelligent,19.5,15.0,0.0,Energetic,2-3 Times a Week Brushing,Agreeable,Occasional
+Whippet,Hound Group,Affectionate, Playful, Calm,19.5,20.5,32.5,Regular Exercise,Occasional Bath/Brush,Independent,Occasional
+Wirehaired Pointing Griffon,Sporting Group,Friendly, Devoted, Trainable,19.5,23.0,60.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
+Xoloitzcuintli,Non-Sporting Group,Loyal, Alert, Calm,22.0,12.0,12.5,Energetic,Occasional Bath/Brush,Agreeable,Infrequent
+Yorkshire Terrier,Toy Group,Affectionate, Sprightly, Tomboyish,18.5,7.5,0.0,Regular Exercise,Specialty/Professional,May be Stubborn,Infrequent
