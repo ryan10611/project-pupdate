@@ -272,7 +272,6 @@ function filterCircles() {
 function resetFilters() {
 
   scatter(dummy_data)
-
   d3.selectAll('option').text('Select One')
 
 }
