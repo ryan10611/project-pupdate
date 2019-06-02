@@ -1,188 +1,188 @@
-,breed,group,temperament1,temperament2,temperament3,life_expectancy_years,avg_height_inch,avg_weight_pounds,energy,grooming,trainability,shedding
-0,Affenpinscher,Toy Group,Confident, Famously Funny, Fearless,19.5,10.25,8.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
-1,Afghan Hound,Hound Group,Independent, Sweet, Regal,21.0,26.0,55.0,Energetic,Daily Brushing,May be Stubborn,Infrequent
-2,Airedale Terrier,Terrier Group,Friendly, Clever, Courageous,18.0,23.0,60.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional
-3,Akita,Working Group,Courageous, Dignified, Profoundly Loyal,16.5,27.0,115.0,Energetic,Daily Brushing,Eager to Please,Seasonal
-4,Alaskan Malamute,Working Group,Affectionate, Loyal, Playful,17.0,25.0,0.0,Energetic,2-3 Times a Week Brushing,Independent,2-3 Times a Week Brushing
-5,American English Coonhound,Hound Group,Sweet, Mellow, Sociable,17.0,25.0,55.0,Energetic,Occasional Bath/Brush,Agreeable,Occasional
-6,American Eskimo Dog,Non-Sporting Group,Playful, Perky, Smart,20.5,10.5,8.0,Energetic,Weekly Brushing,Eager to Please,Seasonal
-7,American Foxhound,Hound Group,Independent, Easy-Going, Sweet-Tempered,17.5,23.5,67.5,Energetic,Occasional Bath/Brush,Independent,Seasonal
-8,American Staffordshire Terrier,Terrier Group,Confident, Smart, Good-Natured,20.0,18.5,62.5,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional
-9,American Water Spaniel,Sporting Group,Eager, Happy, Charming,17.0,16.5,37.5,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Infrequent
-10,Anatolian Shepherd Dog,Working Group,Loyal, Independent, Reserved,17.5,29.0,130.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-11,Appenzeller Sennenhunde,Foundation Stock Service,Agile, Versatile, Lively,19.5,20.5,59.0,Needs Lots of Activity,Weekly Brushing,May be Stubborn,Regularly
-12,Australian Cattle Dog,Herding Group,Alert, Curious, Pleasant,20.0,19.0,42.5,Needs Lots of Activity,Occasional Bath/Brush,May be Stubborn,Regularly
-13,Australian Kelpie,Foundation Stock Service,Loyal, Alert, Intelligent,16.5,18.5,38.5,Energetic,Weekly Brushing,Eager to Please,Regularly
-14,Australian Shepherd,Herding Group,Smart, Work-Oriented, Exuberant,19.5,21.5,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
-15,Australian Terrier,Terrier Group,Affectionate, Courageous, Spirited,18.5,10.5,17.5,Energetic,Weekly Brushing,Agreeable,Infrequent
-16,Azawakh,Hound Group,Loyal, Independent, Deeply Affectionate,19.5,27.0,49.5,Regular Exercise,Weekly Brushing,Independent,Occasional
-17,Barbet,Miscellaneous Class,Friendly, Bright, Sweet-Natured,19.0,21.75,50.0,Regular Exercise,Weekly Brushing,Agreeable,Infrequent
-18,Basenji,Hound Group,Independent, Smart, Poised,20.0,17.0,0.0,Energetic,Occasional Bath/Brush,Independent,Occasional
-19,Beagle,Hound Group,Friendly, Curious, Merry,17.5,13.0,23.0,Energetic,2-3 Times a Week Brushing,Agreeable,Seasonal
-20,Bearded Collie,Herding Group,Smart, Bouncy, Charismatic,19.0,21.5,50.0,Regular Exercise,Daily Brushing,Independent,Seasonal
-21,Bedlington Terrier,Terrier Group,Loyal, Charming, Frollicking,19.0,16.25,20.0,Energetic,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing
-22,Belgian Malinois,Herding Group,Confident, Smart, Hardworking,22.0,25.0,70.0,Energetic,Weekly Brushing,Easy Training,Seasonal
-23,Belgian Sheepdog,Herding Group,Bright, Watchful, Serious-Minded,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal
-24,Belgian Tervuren,Herding Group,Courageous, Alert, Intelligent,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal
-25,Berger Picard,Herding Group,Loyal, Good-Natured, Observant,18.5,24.5,60.0,Needs Lots of Activity,Occasional Bath/Brush,Easy Training,Seasonal
-26,Bernese Mountain Dog,Working Group,Good-Natured, Calm, Strong,12.0,26.25,97.5,Energetic,2-3 Times a Week Brushing,Easy Training,Frequent
-27,Bichon Frise,Non-Sporting Group,Playful, Curious, Peppy,21.5,10.5,15.0,Regular Exercise,Specialty/Professional,Agreeable,Infrequent
-28,Black And Tan Coonhound,Hound Group,Easy-Going, Bright, Brave,16.0,26.0,87.5,Regular Exercise,Weekly Brushing,Independent,Seasonal
-29,Black Russian Terrier,Working Group,Intelligent, Calm, Powerful,16.0,28.5,105.0,Energetic,Daily Brushing,Easy Training,Seasonal
-30,Bloodhound,Hound Group,Friendly, Independent, Inquisitive,16.0,26.0,100.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-31,Bluetick Coonhound,Hound Group,Smart, Devoted, Tenacious,17.0,24.5,67.5,Energetic,Weekly Brushing,Agreeable,Seasonal
-32,Boerboel,Working Group,Confident, Intelligent, Calm,14.5,25.5,175.0,Calm,Occasional Bath/Brush,Agreeable,Occasional
-33,Bolognese,Foundation Stock Service,Playful, Easy-Going, Devoted,19.0,11.0,7.25,Calm,2-3 Times a Week Brushing,Agreeable,Infrequent
-34,Border Collie,Herding Group,Affectionate, Smart, Energetic,19.5,20.5,42.5,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal
-35,Border Terrier,Terrier Group,Affectionate, Happy, Plucky,19.5,13.5,14.25,Regular Exercise,Weekly Brushing,Easy Training,Occasional
-36,Borzoi,Hound Group,Affectionate, Loyal, Regally Dignified,16.0,28.0,90.0,Energetic,Weekly Brushing,Independent,Seasonal
-37,Boston Terrier,Non-Sporting Group,Friendly, Bright, Amusing,17.5,16.0,18.5,Regular Exercise,Weekly Brushing,Eager to Please,Infrequent
-38,Bouvier Des Flandres,Herding Group,Affectionate, Courageous, Strong-Willed,16.0,26.0,90.0,Energetic,Daily Brushing,Agreeable,Seasonal
-39,Boxer,Working Group,Bright, Fun-Loving, Active,16.0,24.0,72.5,Energetic,Weekly Brushing,Easy Training,Occasional
-40,Boykin Spaniel,Sporting Group,Friendly, Eager, Lovable,17.5,16.75,35.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal
-41,Bracco Italiano,Foundation Stock Service,Affectionate, Intelligent, Enthusiastic,17.0,24.0,72.5,Energetic,Occasional Bath/Brush,Easy Training,Occasional
-42,Briard,Herding Group,Confident, Smart, Faithful,12.0,25.0,77.5,Regular Exercise,Daily Brushing,Independent,Infrequent
-43,Brittany,Sporting Group,Bright, Fun-Loving, Upbeat,19.0,19.0,35.0,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal
-44,Brussels Griffon,Toy Group,Loyal, Alert, Curious,19.5,8.5,9.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal
-45,Bull Terrier,Terrier Group,Playful, Charming, Mischievous,18.5,21.5,60.0,Energetic,Weekly Brushing,Independent,Seasonal
-46,Bulldog,Non-Sporting Group,Friendly, Courageous, Calm,13.0,14.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Regularly
-47,Bullmastiff,Working Group,Affectionate, Loyal, Brave,11.5,26.0,120.0,Energetic,Occasional Bath/Brush,Agreeable,Seasonal
-48,Cairn Terrier,Terrier Group,Alert, Cheerful, Busy,20.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
-49,Canaan Dog,Herding Group,Confident, Alert, Vigilant,19.5,22.0,50.0,Regular Exercise,Weekly Brushing,Independent,Frequent
-50,Cane Corso,Working Group,Affectionate, Intelligent, Majestic,15.0,26.25,104.5,Energetic,Occasional Bath/Brush,Agreeable,Occasional
-51,Cardigan Welsh Corgi,Herding Group,Affectionate, Loyal, Smart,19.5,11.5,34.0,Energetic,Weekly Brushing,Agreeable,Seasonal
-52,Catahoula Leopard Dog,Foundation Stock Service,Loyal, Independent, Watchful,17.0,23.0,72.5,Needs Lots of Activity,Needs Lots of Activity,Independent,Reserved with Strangers
-53,Caucasian Shepherd Dog,Foundation Stock Service,Fearless, Bold, Kind,16.0,26.5,134.5,Calm,2-3 Times a Week Brushing,Independent,Regularly
-54,Cavalier King Charles Spaniel,Toy Group,Affectionate, Gentle, Graceful,19.5,12.5,15.5,Calm,Weekly Brushing,Eager to Please,Occasional
-55,Cesky Terrier,Terrier Group,Clever, Adventurous, Family-Oriented,19.5,11.5,19.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
-56,Chesapeake Bay Retriever,Sporting Group,Affectionate, Bright, Sensitive,16.5,24.5,72.5,Energetic,2-3 Times a Week Brushing,Agreeable,Regularly
-57,Chihuahua,Toy Group,Charming, Graceful, Sassy,22.0,6.5,4.949999999999999,Regular Exercise,Occasional Bath/Brush,Independent,Occasional
-58,Chinese Crested,Toy Group,Affectionate, Alert, Lively,22.0,12.0,10.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Infrequent
-59,Chinese Shar Pei,Non-Sporting Group,Loyal, Independent, Calm,14.0,19.0,52.5,Regular Exercise,Occasional Bath/Brush,May be Stubborn,Regularly
-60,Chinook,Working Group,Smart, Patient, Devoted,19.5,25.0,72.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
-61,Chow Chow,Non-Sporting Group,Dignified, Bright, Serious-Minded,14.0,18.5,57.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,Seasonal
-62,Clumber Spaniel,Sporting Group,Mellow, Amusing, Gentlemanly,16.0,19.0,77.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly
-63,Cocker Spaniel,Sporting Group,Gentle, Smart, Happy,17.0,15.0,27.5,Regular Exercise,Daily Brushing,Eager to Please,Occasional
-64,Collie,Herding Group,Devoted, Graceful, Proud,19.0,25.0,67.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
-65,Coton De Tulear,Non-Sporting Group,Charming, Bright, Happy-Go-Lucky,24.5,10.5,12.0,Regular Exercise,Daily Brushing,Easy Training,Occasional
-66,Curly Coated Retriever,Sporting Group,Confident, Proud, Wickedly Smart,16.0,26.0,77.5,Energetic,Occasional Bath/Brush,Independent,Occasional
-67,Dachshund,Hound Group,Friendly, Curious, Spunky,20.0,8.5,24.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
-68,Dalmatian,Non-Sporting Group,Dignified, Smart, Outgoing,17.5,21.5,57.5,Energetic,Weekly Brushing,Agreeable,Frequent
-69,Dandie Dinmont Terrier,Terrier Group,Independent, Smart, Proud,19.5,9.5,21.0,Regular Exercise,Daily Brushing,Independent,Infrequent
-70,Doberman Pinscher,Working Group,Loyal, Fearless, Alert,16.0,27.0,87.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Regularly
-71,Dogo Argentino,Miscellaneous Class,Friendly, Cheerful, Humble,16.5,25.5,90.0,Calm,Occasional Bath/Brush,Infrequent,Needs Lots of Activity
-72,Dogue De Bordeaux,Working Group,Affectionate, Loyal, Courageous,9.0,23.27,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Regularly
-73,Dutch Shepherd,Miscellaneous Class,Intelligent, Lively, Athletic,18.0,23.0,58.5,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
-74,English Cocker Spaniel,Sporting Group,Energetic, Merry, Responsive,19.0,16.5,31.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional
-75,English Foxhound,Hound Group,Affectionate, Gentle, Sociable,16.5,24.0,67.5,Energetic,Occasional Bath/Brush,Agreeable,Regularly
-76,English Setter,Sporting Group,Friendly, Mellow, Merry,12.0,26.0,72.5,Energetic,2-3 Times a Week Brushing,Easy Training,Regularly
-77,English Springer Spaniel,Sporting Group,Friendly, Playful, Obedient,19.0,20.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Occasional
-78,English Toy Spaniel,Toy Group,Gentle, Playful, Intelligent,16.0,9.5,11.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
-79,Entlebucher Mountain Dog,Herding Group,Loyal, Smart, Enthusiastic,17.5,19.0,57.5,Needs Lots of Activity,Occasional Bath/Brush,Independent,Infrequent
-80,Field Spaniel,Sporting Group,Sweet, Fun-Loving, Sensitive,18.5,18.0,42.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly
-81,Finnish Lapphund,Herding Group,Friendly, Alert, Agile,19.5,19.5,43.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
-82,Finnish Spitz,Non-Sporting Group,Friendly, Good-Natured, Lively,20.5,18.75,29.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
-83,Flat Coated Retriever,Sporting Group,Cheerful, Optimistic, Good-Humored,13.0,23.75,65.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
-84,French Bulldog,Non-Sporting Group,Adaptable, Playful, Smart,16.0,12.0,0.0,Calm,Occasional Bath/Brush,Agreeable,Regularly
-85,German Pinscher,Working Group,Courageous, Intelligent, Vivacious,19.0,18.5,35.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Occasional
-86,German Shepherd Dog,Herding Group,Confident, Courageous, Smart,12.0,25.0,77.5,Regular Exercise,Weekly Brushing,Eager to Please,Regularly
-87,German Shorthaired Pointer,Sporting Group,Friendly, Smart, Willing to Please,16.0,24.0,62.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
-88,German Wirehaired Pointer,Sporting Group,Affectionate, Eager, Enthusiastic,22.0,25.0,60.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly
-89,Giant Schnauzer,Working Group,Loyal, Alert, Trainable,19.5,26.5,72.5,Needs Lots of Activity,Daily Brushing,Easy Training,Daily Brushing
-90,Glen Of Imaal Terrier,Terrier Group,Gentle, Spirited, Bold,17.5,13.25,36.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional
-91,Golden Retriever,Sporting Group,Friendly, Intelligent, Devoted,16.0,23.5,70.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal
-92,Gordon Setter,Sporting Group,Affectionate, Confident, Bold,18.5,25.5,67.5,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal
-93,Great Dane,Working Group,Friendly, Patient, Dependable,12.0,31.0,157.5,Energetic,Occasional Bath/Brush,Agreeable,Seasonal
-94,Great Pyrenees,Working Group,Smart, Patient, Calm,16.0,29.5,0.0,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal
-95,Greater Swiss Mountain Dog,Working Group,Faithful, Family-Oriented, Dependable,13.5,27.0,127.5,Energetic,Weekly Brushing,Agreeable,Seasonal
-96,Greyhound,Hound Group,Gentle, Independent, Noble,16.5,29.0,67.5,Energetic,Occasional Bath/Brush,Independent,Occasional
-97,Harrier,Hound Group,Friendly, Outgoing, People-Oriented,19.5,20.0,24.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Occasional
-98,Havanese,Toy Group,Intelligent, Outgoing, Funny,22.0,10.0,10.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Occasional
-99,Ibizan Hound,Hound Group,Family-Oriented, Even-Tempered, Polite,18.0,25.5,0.0,Needs Lots of Activity,Occasional Bath/Brush,Independent,Occasional
-100,Icelandic Sheepdog,Herding Group,Friendly, Playful, Inquisitive,19.0,18.0,0.0,Energetic,Weekly Brushing,Eager to Please,Seasonal
-101,Irish Red And White Setter,Sporting Group,Courageous, Spirited, Determined,18.5,25.25,51.0,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
-102,Irish Setter,Sporting Group,Active, Outgoing, Sweet-Natured,19.5,27.0,0.0,Needs Lots of Activity,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing
-103,Irish Terrier,Terrier Group,Bold, Dashing, Tenderhearted,20.5,18.0,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush
-104,Irish Water Spaniel,Sporting Group,Playful, Hardworking, Brave,18.5,23.0,61.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
-105,Irish Wolfhound,Hound Group,Courageous, Dignified, Calm,10.0,32.0,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-106,Italian Greyhound,Toy Group,Playful, Alert, Sensitive,21.5,14.0,10.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
-107,Japanese Chin,Toy Group,Charming, Noble, Loving,16.0,9.5,9.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-108,Karelian Bear Dog,Foundation Stock Service,Loyal, Independent, Courageous,17.5,21.25,46.5,Energetic,Occasional Bath/Brush,Seasonal,Calm
-109,Keeshond,Non-Sporting Group,Friendly, Lively, Outgoing,19.5,18.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal
-110,Kerry Blue Terrier,Terrier Group,Smart, Alert, People-Oriented,19.5,18.75,36.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,2-3 Times a Week Brushing
-111,Komondor,Working Group,Loyal, Dignified, Brave,16.0,27.5,0.0,Regular Exercise,Specialty/Professional,Independent,Specialty/Professional
-112,Kooikerhondje,Sporting Group,Friendly, Alert, Quick,19.5,16.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
-113,Kuvasz,Working Group,Loyal, Fearless, Sweet,16.0,29.0,107.5,Regular Exercise,Weekly Brushing,Independent,Weekly Brushing
-114,Labrador Retriever,Sporting Group,Friendly, Active, Outgoing,16.0,23.5,72.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Weekly Brushing
-115,Lakeland Terrier,Terrier Group,Friendly, Confident, Bold,19.5,14.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
-116,Lancashire Heeler,Miscellaneous Class,Affectionate, Versatile, Intelligent,19.5,11.0,13.0,Energetic,Occasional Bath/Brush,Easy Training,Occasional Bath/Brush
-117,Leonberger,Working Group,Friendly, Gentle, Playful,7.0,29.75,140.0,Regular Exercise,Daily Brushing,Eager to Please,Daily Brushing
-118,Lhasa Apso,Non-Sporting Group,Confident, Smart, Comical,19.5,10.5,15.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent
-119,Lowchen,Non-Sporting Group,Affectionate, Outgoing, Positive,20.5,13.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
-120,Maltese,Toy Group,Gentle, Playful, Charming,19.5,8.0,0.0,Regular Exercise,Daily Brushing,Agreeable,Infrequent
-121,Manchester Terrier,Terrier Group,Spirited, Bright, Keenly Observant,23.5,15.5,17.0,Regular Exercise,Weekly Brushing,Easy Training,Occasional
-122,Mastiff,Working Group,Courageous, Dignified, Good-Natured,11.0,30.0,195.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush
-123,Miniature Pinscher,Toy Group,Fearless, Fun-Loving, Proud,20.0,11.25,9.0,Regular Exercise,Occasional Bath/Brush,Independent,Occasional Bath/Brush
-124,Miniature Schnauzer,Terrier Group,Friendly, Smart, Obedient,19.5,13.0,15.5,Regular Exercise,Specialty/Professional,Eager to Please,Specialty/Professional
-125,Mudi,Miscellaneous Class,Loyal, Intelligent, Active,19.0,16.75,23.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Occasional
-126,Neapolitan Mastiff,Working Group,Loyal, Dignified, Watchful,11.5,28.5,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Weekly Brushing
-127,Newfoundland,Working Group,Sweet, Patient, Devoted,14.0,28.0,140.0,Regular Exercise,Weekly Brushing,Easy Training,Weekly Brushing
-128,Norfolk Terrier,Terrier Group,Fearless, Alert, Fun-Loving,20.0,9.5,11.5,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
-129,Norwegian Buhund,Herding Group,Confident, Smart, Perceptive,19.5,17.75,35.5,Energetic,Weekly Brushing,Easy Training,Seasonal
-130,Norwegian Elkhound,Hound Group,Friendly, Confident, Dependable,19.5,20.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional
-131,Norwegian Lundehund,Non-Sporting Group,Loyal, Energetic, Alert,19.5,14.0,25.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
-132,Norwich Terrier,Terrier Group,Affectionate, Loyal, Alert,19.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing
-133,Nova Scotia Duck Tolling Retriever,Sporting Group,Affectionate, Intelligent, Outgoing,19.0,19.5,42.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing
-134,Old English Sheepdog,Herding Group,Adaptable, Gentle, Smart,16.0,22.0,80.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
-135,Otterhound,Hound Group,Even-Tempered, Amiable, Boisterous,16.5,27.0,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Occasional
-136,Papillon,Toy Group,Friendly, Alert, Happy,22.0,9.5,7.5,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal
-137,Pekingese,Toy Group,Affectionate, Loyal, Regal in Manner,19.0,7.5,0.0,Calm,2-3 Times a Week Brushing,May be Stubborn,Seasonal
-138,Pembroke Welsh Corgi,Herding Group,Affectionate, Smart, Alert,18.5,11.0,0.0,Energetic,Weekly Brushing,Agreeable,Regularly
-139,Petit Basset Griffon Vendeen,Hound Group,Alert, Happy, Vivacious,22.0,14.0,32.5,Energetic,Weekly Brushing,Independent,Occasional
-140,Pharaoh Hound,Hound Group,Friendly, Smart, Noble,19.0,24.0,50.0,Energetic,Weekly Brushing,Independent,Seasonal
-141,Plott,Hound Group,Loyal, Alert, Intelligent,19.0,22.5,55.0,Energetic,Occasional Bath/Brush,Independent,Occasional
-142,Pointer,Sporting Group,Loyal, Hardworking, Even-Tempered,20.5,26.5,65.0,Energetic,Weekly Brushing,Agreeable,Occasional
-143,Polish Lowland Sheepdog,Herding Group,Confident, Clever, Lively,19.0,19.0,40.0,Calm,Daily Brushing,May be Stubborn,Seasonal
-144,Pomeranian,Toy Group,Inquisitive, Bold, Lively,20.0,6.5,5.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal
-145,Poodle,Non-Sporting Group,Active, Proud, Very Smart,19.0,12.5,12.5,Regular Exercise,Specialty/Professional,Eager to Please,Infrequent
-146,Portuguese Water Dog,Working Group,Affectionate, Adventurous, Athletic,17.5,21.5,51.0,Energetic,Daily Brushing,Easy Training,Seasonal
-147,Pug,Toy Group,Charming, Mischievous, Loving,20.5,11.5,16.0,Regular Exercise,Weekly Brushing,Agreeable,Regularly
-148,Puli,Herding Group,Loyal, Smart, Home-Loving,17.5,17.0,30.0,Regular Exercise,Specialty/Professional,Independent,Infrequent
-149,Pyrenean Shepherd,Herding Group,Affectionate, Active, Enthusiastic,23.5,17.0,22.5,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
-150,Rat Terrier,Terrier Group,Friendly, Inquisitive, Lovable,21.0,11.5,17.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal
-151,Redbone Coonhound,Hound Group,Even-Tempered, Amiable, Eager to Please,19.5,24.5,57.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal
-152,Rhodesian Ridgeback,Hound Group,Affectionate, Dignified, Even-Tempered,16.0,26.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal
-153,Rottweiler,Working Group,Loyal, Loving, Confident Guardian,14.0,25.5,115.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional
-154,Saluki,Hound Group,Gentle, Dignified, Independent-Minded,18.5,25.5,52.5,Energetic,Occasional Bath/Brush,Independent,Occasional
-155,Samoyed,Working Group,Adaptable, Friendly, Gentle,19.0,22.25,55.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal
-156,Schipperke,Non-Sporting Group,Confident, Alert, Curious,19.0,12.0,13.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-157,Scottish Deerhound,Hound Group,Gentle, Dignified, Polite,13.5,31.0,97.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
-158,Scottish Terrier,Terrier Group,Confident, Independent, Spirited,12.0,10.0,20.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional
-159,Sealyham Terrier,Terrier Group,Alert, Outgoing, Sense Of Humor,19.0,10.5,23.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
-160,Shetland Sheepdog,Herding Group,Playful, Energetic, Bright,19.0,14.5,20.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal
-161,Shiba Inu,Non-Sporting Group,Alert, Active, Attentive,21.0,15.5,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal
-162,Shih Tzu,Toy Group,Affectionate, Playful, Outgoing,19.0,9.75,12.5,Regular Exercise,Daily Brushing,Agreeable,Infrequent
-163,Siberian Husky,Working Group,Loyal, Outgoing, Mischevious,19.0,22.25,52.5,Energetic,Weekly Brushing,Independent,Seasonal
-164,Silky Terrier,Toy Group,Friendly, Quick, Keenly Alert,20.5,9.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Occasional
-165,Skye Terrier,Terrier Group,Courageous, Good-Tempered, Canny,19.0,10.0,40.0,Regular Exercise,Daily Brushing,Independent,Seasonal
-166,Small Munsterlander Pointer,Foundation Stock Service,Intelligent, Devoted, Self-Confident,19.0,20.75,50.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Seasonal
-167,Soft Coated Wheaten Terrier,Terrier Group,Friendly, Happy, Deeply Devoted,19.0,18.5,37.5,Energetic,2-3 Times a Week Brushing,Independent,Infrequent
-168,Stabyhoun,Foundation Stock Service,Intelligent, Responsive, Loving,20.5,20.0,50.0,Energetic,Occasional Bath/Brush,Easy Training,Seasonal
-169,Staffordshire Bull Terrier,Terrier Group,Clever, Brave, Tenacious,19.0,15.0,33.0,Energetic,Weekly Brushing,May be Stubborn,Occasional
-170,Standard Schnauzer,Working Group,Fearless, Smart, Spirited,21.0,19.0,42.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent
-171,Sussex Spaniel,Sporting Group,Friendly, Merry, Even-Tempered,20.5,14.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
-172,Swedish Vallhund,Herding Group,Friendly, Energetic, Watchful,19.5,13.125,27.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Seasonal
-173,Tibetan Mastiff,Working Group,Independent, Reserved, Intelligent,16.0,26.0,120.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal
-174,Tibetan Spaniel,Non-Sporting Group,Playful, Bright, Self-Confident,19.5,10.0,12.0,Calm,Weekly Brushing,Agreeable,Seasonal
-175,Tibetan Terrier,Non-Sporting Group,Affectionate, Loyal, Sensitive,23.0,15.5,24.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal
-176,Toy Fox Terrier,Toy Group,Friendly, Alert, Intelligent,20.5,10.0,5.25,Energetic,Weekly Brushing,Eager to Please,Occasional
-177,Treeing Tennessee Brindle,Foundation Stock Service,Friendly, Alert, Intelligent,16.0,20.0,40.0,Calm,Weekly Brushing,Occasional,Regular Exercise
-178,Treeing Walker Coonhound,Hound Group,Smart, Brave, Courteous,18.5,24.5,60.0,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal
-179,Vizsla,Sporting Group,Affectionate, Gentle, Energetic,19.0,23.0,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal
-180,Weimaraner,Sporting Group,Friendly, Fearless, Obedient,16.5,26.0,80.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal
-181,Welsh Springer Spaniel,Sporting Group,Happy, Reserved, Upbeat,19.5,18.5,47.5,Energetic,Weekly Brushing,Easy Training,Weekly Brushing
-182,Welsh Terrier,Terrier Group,Friendly, Spirited, Intelligent,19.5,15.0,0.0,Energetic,2-3 Times a Week Brushing,Agreeable,Occasional
-183,Whippet,Hound Group,Affectionate, Playful, Calm,19.5,20.5,32.5,Regular Exercise,Occasional Bath/Brush,Independent,Occasional
-184,Wirehaired Pointing Griffon,Sporting Group,Friendly, Devoted, Trainable,19.5,23.0,60.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal
-185,Xoloitzcuintli,Non-Sporting Group,Loyal, Alert, Calm,22.0,12.0,12.5,Energetic,Occasional Bath/Brush,Agreeable,Infrequent
-186,Yorkshire Terrier,Toy Group,Affectionate, Sprightly, Tomboyish,18.5,7.5,0.0,Regular Exercise,Specialty/Professional,May be Stubborn,Infrequent
+,breed,group,temperament1,temperament2,temperament3,life_expectancy_years,avg_height_inch,avg_weight_pounds,energy,grooming,trainability,shedding,img_url
+0,Affenpinscher,Toy Group,Confident, Famously Funny, Fearless,19.5,10.25,8.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30174107/Affenpinscher-copy.jpg
+1,Afghan Hound,Hound Group,Independent, Sweet, Regal,21.0,26.0,55.0,Energetic,Daily Brushing,May be Stubborn,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19145725/Afghan-Hound1.jpg
+2,Airedale Terrier,Terrier Group,Friendly, Clever, Courageous,18.0,23.0,60.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001924/Airedale-Terrier-On-White-03.jpg
+3,Akita,Working Group,Courageous, Dignified, Profoundly Loyal,16.5,27.0,115.0,Energetic,Daily Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001904/Akita-On-White-01.jpg
+4,Alaskan Malamute,Working Group,Affectionate, Loyal, Playful,17.0,25.0,0.0,Energetic,2-3 Times a Week Brushing,Independent,2-3 Times a Week Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001815/Alaskan-Malamute-On-White-03.jpg
+5,American English Coonhound,Hound Group,Sweet, Mellow, Sociable,17.0,25.0,55.0,Energetic,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001745/American-English-Coonhound-On-White-03.jpg
+6,American Eskimo Dog,Non-Sporting Group,Playful, Perky, Smart,20.5,10.5,8.0,Energetic,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001714/American-Eskimo-Dog-On-White-03.jpg
+7,American Foxhound,Hound Group,Independent, Easy-Going, Sweet-Tempered,17.5,23.5,67.5,Energetic,Occasional Bath/Brush,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001630/American-Foxhound-On-White-03.jpg
+8,American Staffordshire Terrier,Terrier Group,Confident, Smart, Good-Natured,20.0,18.5,62.5,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07172037/AmStaff.06.jpg
+9,American Water Spaniel,Sporting Group,Eager, Happy, Charming,17.0,16.5,37.5,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04160609/American-Water-Spaniel.1.jpg
+10,Anatolian Shepherd Dog,Working Group,Loyal, Independent, Reserved,17.5,29.0,130.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001436/Anatolian-Shepherd-Dog-On-White-01.jpg
+11,Appenzeller Sennenhunde,Foundation Stock Service,Agile, Versatile, Lively,19.5,20.5,59.0,Needs Lots of Activity,Weekly Brushing,May be Stubborn,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07194156/AdobeStock_64186349.jpg
+12,Australian Cattle Dog,Herding Group,Alert, Curious, Pleasant,20.0,19.0,42.5,Needs Lots of Activity,Occasional Bath/Brush,May be Stubborn,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001403/Australian-Cattle-Dog-On-White-03.jpg
+13,Australian Kelpie,Foundation Stock Service,Loyal, Alert, Intelligent,16.5,18.5,38.5,Energetic,Weekly Brushing,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14153647/Australian-Kelpie.jpg
+14,Australian Shepherd,Herding Group,Smart, Work-Oriented, Exuberant,19.5,21.5,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03173132/Australian-Shepherd.1.jpg
+15,Australian Terrier,Terrier Group,Affectionate, Courageous, Spirited,18.5,10.5,17.5,Energetic,Weekly Brushing,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29112347/Australian-Terrier-on-White-011.jpg
+16,Azawakh,Hound Group,Loyal, Independent, Deeply Affectionate,19.5,27.0,49.5,Regular Exercise,Weekly Brushing,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03163019/Azawakh_171089447.jpg
+17,Barbet,Miscellaneous Class,Friendly, Bright, Sweet-Natured,19.0,21.75,50.0,Regular Exercise,Weekly Brushing,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27114851/barbet.lying_.jpg
+18,Basenji,Hound Group,Independent, Smart, Poised,20.0,17.0,0.0,Energetic,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001133/Basenji-On-White-01.jpg
+19,Beagle,Hound Group,Friendly, Curious, Merry,17.5,13.0,23.0,Energetic,2-3 Times a Week Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000937/Beagle-On-White-07.jpg
+20,Bearded Collie,Herding Group,Smart, Bouncy, Charismatic,19.0,21.5,50.0,Regular Exercise,Daily Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000856/Bearded-Collie-On-White-01.jpg
+21,Bedlington Terrier,Terrier Group,Loyal, Charming, Frollicking,19.0,16.25,20.0,Energetic,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06122056/20121215-_MG_3486.jpg
+22,Belgian Malinois,Herding Group,Confident, Smart, Hardworking,22.0,25.0,70.0,Energetic,Weekly Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000724/Belgian-Malinois-On-White-01.jpg
+23,Belgian Sheepdog,Herding Group,Bright, Watchful, Serious-Minded,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000641/Belgian-Sheepdog-On-White-01.jpg
+24,Belgian Tervuren,Herding Group,Courageous, Alert, Intelligent,19.0,25.0,65.0,Energetic,2-3 Times a Week Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29201539/Belgian-Tervuren.3.jpg
+25,Berger Picard,Herding Group,Loyal, Good-Natured, Observant,18.5,24.5,60.0,Needs Lots of Activity,Occasional Bath/Brush,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07192240/New-Stacking-full-body-2.jpg
+26,Bernese Mountain Dog,Working Group,Good-Natured, Calm, Strong,12.0,26.25,97.5,Energetic,2-3 Times a Week Brushing,Easy Training,Frequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000440/Bernese-Mountain-Dog-On-White-01.jpg
+27,Bichon Frise,Non-Sporting Group,Playful, Curious, Peppy,21.5,10.5,15.0,Regular Exercise,Specialty/Professional,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000402/Bichon-Frise-On-White-03.jpg
+28,Black And Tan Coonhound,Hound Group,Easy-Going, Bright, Brave,16.0,26.0,87.5,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29172221/Black-and-Tan-Coonhound-On-White-031.jpg
+29,Black Russian Terrier,Working Group,Intelligent, Calm, Powerful,16.0,28.5,105.0,Energetic,Daily Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29203455/Black-Russian-Terrier-On-White-031.jpg
+30,Bloodhound,Hound Group,Friendly, Independent, Inquisitive,16.0,26.0,100.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000208/Bloodhound-On-White-01.jpg
+31,Bluetick Coonhound,Hound Group,Smart, Devoted, Tenacious,17.0,24.5,67.5,Energetic,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000127/Bluetick-Coonhound-On-White-01.jpg
+32,Boerboel,Working Group,Confident, Intelligent, Calm,14.5,25.5,175.0,Calm,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000046/Boerboel-On-White-01.jpg
+33,Bolognese,Foundation Stock Service,Playful, Easy-Going, Devoted,19.0,11.0,7.25,Calm,2-3 Times a Week Brushing,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07171038/AdobeStock_71665389.jpg
+34,Border Collie,Herding Group,Affectionate, Smart, Energetic,19.5,20.5,42.5,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235957/Border-Collie-On-White-01.jpg
+35,Border Terrier,Terrier Group,Affectionate, Happy, Plucky,19.5,13.5,14.25,Regular Exercise,Weekly Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235916/Border-Terrier-On-White-03.jpg
+36,Borzoi,Hound Group,Affectionate, Loyal, Regally Dignified,16.0,28.0,90.0,Energetic,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01132030/Borzoi-On-White-031.jpg
+37,Boston Terrier,Non-Sporting Group,Friendly, Bright, Amusing,17.5,16.0,18.5,Regular Exercise,Weekly Brushing,Eager to Please,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235803/Boston-Terrier-On-White-03.jpg
+38,Bouvier Des Flandres,Herding Group,Affectionate, Courageous, Strong-Willed,16.0,26.0,90.0,Energetic,Daily Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235721/Bouvier-des-Flandres-On-White-02.jpg
+39,Boxer,Working Group,Bright, Fun-Loving, Active,16.0,24.0,72.5,Energetic,Weekly Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17154200/Boxer.1.jpg
+40,Boykin Spaniel,Sporting Group,Friendly, Eager, Lovable,17.5,16.75,35.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30223645/Boykin_Spaniel_Alert.jpg
+41,Bracco Italiano,Foundation Stock Service,Affectionate, Intelligent, Enthusiastic,17.0,24.0,72.5,Energetic,Occasional Bath/Brush,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15104437/Bracco.7.jpg
+42,Briard,Herding Group,Confident, Smart, Faithful,12.0,25.0,77.5,Regular Exercise,Daily Brushing,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235526/Briard-On-White-01.jpg
+43,Brittany,Sporting Group,Bright, Fun-Loving, Upbeat,19.0,19.0,35.0,Needs Lots of Activity,2-3 Times a Week Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19033403/Brittany-1.jpg
+44,Brussels Griffon,Toy Group,Loyal, Alert, Curious,19.5,8.5,9.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212238/Brussels-Griffon-on-White-06.jpg
+45,Bull Terrier,Terrier Group,Playful, Charming, Mischievous,18.5,21.5,60.0,Energetic,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235344/Bull-Terrier-On-White-03.jpg
+46,Bulldog,Non-Sporting Group,Friendly, Courageous, Calm,13.0,14.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/21010129/Bulldog-Slide-02.jpg
+47,Bullmastiff,Working Group,Affectionate, Loyal, Brave,11.5,26.0,120.0,Energetic,Occasional Bath/Brush,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212353/Bullmastiff-on-White-05.jpg
+48,Cairn Terrier,Terrier Group,Alert, Cheerful, Busy,20.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04193145/Cairn-Terriers-on-White-031.jpg
+49,Canaan Dog,Herding Group,Confident, Alert, Vigilant,19.5,22.0,50.0,Regular Exercise,Weekly Brushing,Independent,Frequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235112/Canaan-Dog-On-White-01.jpg
+50,Cane Corso,Working Group,Affectionate, Intelligent, Majestic,15.0,26.25,104.5,Energetic,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18123713/Cane-Corso-AKC-121516-296.jpg
+51,Cardigan Welsh Corgi,Herding Group,Affectionate, Loyal, Smart,19.5,11.5,34.0,Energetic,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04202304/Cardigan-Welsh-Corgi-on-White-111.jpg
+52,Catahoula Leopard Dog,Foundation Stock Service,Loyal, Independent, Watchful,17.0,23.0,72.5,Needs Lots of Activity,Needs Lots of Activity,Independent,Reserved with Strangers,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12211404/Catahoula-Leopard-Dog-on-White-02.jpg
+53,Caucasian Shepherd Dog,Foundation Stock Service,Fearless, Bold, Kind,16.0,26.5,134.5,Calm,2-3 Times a Week Brushing,Independent,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14131930/GettyImages-1095398138.jpg
+54,Cavalier King Charles Spaniel,Toy Group,Affectionate, Gentle, Graceful,19.5,12.5,15.5,Calm,Weekly Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234921/Cavalier-King-Charles-Spaniel-On-White-03.jpg
+55,Cesky Terrier,Terrier Group,Clever, Adventurous, Family-Oriented,19.5,11.5,19.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15141010/Cesky-Terrier-on-White-011.jpg
+56,Chesapeake Bay Retriever,Sporting Group,Affectionate, Bright, Sensitive,16.5,24.5,72.5,Energetic,2-3 Times a Week Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234759/Chesapeake-Bay-Retriever-On-White-03.jpg
+57,Chihuahua,Toy Group,Charming, Graceful, Sassy,22.0,6.5,4.949999999999999,Regular Exercise,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213613/Chihuahua-onWhite-13.jpg
+58,Chinese Crested,Toy Group,Affectionate, Alert, Lively,22.0,12.0,10.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234649/Chinese-Crested-On-White-01.jpg
+59,Chinese Shar Pei,Non-Sporting Group,Loyal, Independent, Calm,14.0,19.0,52.5,Regular Exercise,Occasional Bath/Brush,May be Stubborn,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234623/Chinese-Shar-Pei-On-White-02.jpg
+60,Chinook,Working Group,Smart, Patient, Devoted,19.5,25.0,72.5,Energetic,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234558/Chinook-On-White-03.jpg
+61,Chow Chow,Non-Sporting Group,Dignified, Bright, Serious-Minded,14.0,18.5,57.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234523/Chow-Chow-On-White-01.jpg
+62,Clumber Spaniel,Sporting Group,Mellow, Amusing, Gentlemanly,16.0,19.0,77.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07135844/Clumber-Spaniel-On-White-011.jpg
+63,Cocker Spaniel,Sporting Group,Gentle, Smart, Happy,17.0,15.0,27.5,Regular Exercise,Daily Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213216/Cocker-Spaniel-on-White-13.jpg
+64,Collie,Herding Group,Devoted, Graceful, Proud,19.0,25.0,67.5,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234244/Collie-On-White-01.jpg
+65,Coton De Tulear,Non-Sporting Group,Charming, Bright, Happy-Go-Lucky,24.5,10.5,12.0,Regular Exercise,Daily Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234218/Coton-de-Tulear-On-White-03.jpg
+66,Curly Coated Retriever,Sporting Group,Confident, Proud, Wickedly Smart,16.0,26.0,77.5,Energetic,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12185646/Curly-Coated-Retriever-on-White-04.jpg
+67,Dachshund,Hound Group,Friendly, Curious, Spunky,20.0,8.5,24.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234114/Dachshund-On-White-01.jpg
+68,Dalmatian,Non-Sporting Group,Dignified, Smart, Outgoing,17.5,21.5,57.5,Energetic,Weekly Brushing,Agreeable,Frequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234026/Dalmatian-On-White-01.jpg
+69,Dandie Dinmont Terrier,Terrier Group,Independent, Smart, Proud,19.5,9.5,21.0,Regular Exercise,Daily Brushing,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213000/Dandie-Dinmont-Terrier-slide-6.jpg
+70,Doberman Pinscher,Working Group,Loyal, Fearless, Alert,16.0,27.0,87.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233854/Doberman-Pinscher-On-White-03.jpg
+71,Dogo Argentino,Miscellaneous Class,Friendly, Cheerful, Humble,16.5,25.5,90.0,Calm,Occasional Bath/Brush,Infrequent,Needs Lots of Activity,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11141747/Dogo-Argentino.jpg
+72,Dogue De Bordeaux,Working Group,Affectionate, Loyal, Courageous,9.0,23.27,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233808/Dogue-de-Bordeaux-On-White-03.jpg
+73,Dutch Shepherd,Miscellaneous Class,Intelligent, Lively, Athletic,18.0,23.0,58.5,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12205622/Dutch-Shepherd-on-White-01.jpg
+74,English Cocker Spaniel,Sporting Group,Energetic, Merry, Responsive,19.0,16.5,31.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16105011/English-Cocker-Spaniel-Slide03.jpg
+75,English Foxhound,Hound Group,Affectionate, Gentle, Sociable,16.5,24.0,67.5,Energetic,Occasional Bath/Brush,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233653/English-Foxhound-On-White-01.jpg
+76,English Setter,Sporting Group,Friendly, Mellow, Merry,12.0,26.0,72.5,Energetic,2-3 Times a Week Brushing,Easy Training,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233610/English-Setter-On-White-03.jpg
+77,English Springer Spaniel,Sporting Group,Friendly, Playful, Obedient,19.0,20.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08110247/English-Springer-Spaniel-On-White-011.jpg
+78,English Toy Spaniel,Toy Group,Gentle, Playful, Intelligent,16.0,9.5,11.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08140952/English-Toy-Spaniel-Slide-03.jpg
+79,Entlebucher Mountain Dog,Herding Group,Loyal, Smart, Enthusiastic,17.5,19.0,57.5,Needs Lots of Activity,Occasional Bath/Brush,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233437/Entlebucher-Mountain-Dog-On-White-01.jpg
+80,Field Spaniel,Sporting Group,Sweet, Fun-Loving, Sensitive,18.5,18.0,42.5,Regular Exercise,Weekly Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233354/Field-Spaniel-On-White-01.jpg
+81,Finnish Lapphund,Herding Group,Friendly, Alert, Agile,19.5,19.5,43.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233323/Finnish-Lapphund-On-White-01.jpg
+82,Finnish Spitz,Non-Sporting Group,Friendly, Good-Natured, Lively,20.5,18.75,29.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233256/Finnish-Spitz-On-White-01.jpg
+83,Flat Coated Retriever,Sporting Group,Cheerful, Optimistic, Good-Humored,13.0,23.75,65.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233222/Flat-Coated-Retriever-On-White-03.jpg
+84,French Bulldog,Non-Sporting Group,Adaptable, Playful, Smart,16.0,12.0,0.0,Calm,Occasional Bath/Brush,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12145606/20121215-_MG_3384.jpg
+85,German Pinscher,Working Group,Courageous, Intelligent, Vivacious,19.0,18.5,35.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233117/German-Pinscher-On-White-01.jpg
+86,German Shepherd Dog,Herding Group,Confident, Courageous, Smart,12.0,25.0,77.5,Regular Exercise,Weekly Brushing,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg
+87,German Shorthaired Pointer,Sporting Group,Friendly, Smart, Willing to Please,16.0,24.0,62.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232941/German-Shorthaired-Pointer-On-White-07.jpg
+88,German Wirehaired Pointer,Sporting Group,Affectionate, Eager, Enthusiastic,22.0,25.0,60.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232911/German-Wirehaired-Pointer-On-White-01.jpg
+89,Giant Schnauzer,Working Group,Loyal, Alert, Trainable,19.5,26.5,72.5,Needs Lots of Activity,Daily Brushing,Easy Training,Daily Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232847/Giant-Schnauzer-On-White-01.jpg
+90,Glen Of Imaal Terrier,Terrier Group,Gentle, Spirited, Bold,17.5,13.25,36.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232815/Glen-of-Imaal-Terrier-On-White-01.jpg
+91,Golden Retriever,Sporting Group,Friendly, Intelligent, Devoted,16.0,23.5,70.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12121353/GoldenRetriever1_stacked.jpg
+92,Gordon Setter,Sporting Group,Affectionate, Confident, Bold,18.5,25.5,67.5,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232627/Gordon-Setter-On-White-03.jpg
+93,Great Dane,Working Group,Friendly, Patient, Dependable,12.0,31.0,157.5,Energetic,Occasional Bath/Brush,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232605/Great-Dane-On-White-01.jpg
+94,Great Pyrenees,Working Group,Smart, Patient, Calm,16.0,29.5,0.0,Needs Lots of Activity,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12200322/Great-Pyrenees-on-White-031.jpg
+95,Greater Swiss Mountain Dog,Working Group,Faithful, Family-Oriented, Dependable,13.5,27.0,127.5,Energetic,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232456/Greater-Swiss-Mountain-Dog-On-White-01.jpg
+96,Greyhound,Hound Group,Gentle, Independent, Noble,16.5,29.0,67.5,Energetic,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17171017/Greyhounds.jpg
+97,Harrier,Hound Group,Friendly, Outgoing, People-Oriented,19.5,20.0,24.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22174432/Harrier3.jpg
+98,Havanese,Toy Group,Intelligent, Outgoing, Funny,22.0,10.0,10.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232252/Havanese-On-White-01.jpg
+99,Ibizan Hound,Hound Group,Family-Oriented, Even-Tempered, Polite,18.0,25.5,0.0,Needs Lots of Activity,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232219/Ibizan-Hound-On-White-01.jpg
+100,Icelandic Sheepdog,Herding Group,Friendly, Playful, Inquisitive,19.0,18.0,0.0,Energetic,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14115958/Icelandic-Face.jpg
+101,Irish Red And White Setter,Sporting Group,Courageous, Spirited, Determined,18.5,25.25,51.0,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213903/Irish-Red-And-White-Setter-On-White-02.jpg
+102,Irish Setter,Sporting Group,Active, Outgoing, Sweet-Natured,19.5,27.0,0.0,Needs Lots of Activity,2-3 Times a Week Brushing,Agreeable,2-3 Times a Week Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232053/Irish-Setter-On-White-01.jpg
+103,Irish Terrier,Terrier Group,Bold, Dashing, Tenderhearted,20.5,18.0,0.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213034/Irish-Terrier-on-white-01.jpg
+104,Irish Water Spaniel,Sporting Group,Playful, Hardworking, Brave,18.5,23.0,61.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231921/Irish-Water-Spaniel-On-White-01.jpg
+105,Irish Wolfhound,Hound Group,Courageous, Dignified, Calm,10.0,32.0,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12211902/Irish-Wolfhound-on-White-12.jpg
+106,Italian Greyhound,Toy Group,Playful, Alert, Sensitive,21.5,14.0,10.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213025/Italian-Greyhound-on-white-01.jpg
+107,Japanese Chin,Toy Group,Charming, Noble, Loving,16.0,9.5,9.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12210836/Japanese-Chin-on-White-01.jpg.jpg
+108,Karelian Bear Dog,Foundation Stock Service,Loyal, Independent, Courageous,17.5,21.25,46.5,Energetic,Occasional Bath/Brush,Seasonal,Calm,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12190032/Karelian-Bear-Dog-on-White-01.jpg
+109,Keeshond,Non-Sporting Group,Friendly, Lively, Outgoing,19.5,18.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231652/Keeshond-On-White-01.jpg
+110,Kerry Blue Terrier,Terrier Group,Smart, Alert, People-Oriented,19.5,18.75,36.5,Regular Exercise,2-3 Times a Week Brushing,May be Stubborn,2-3 Times a Week Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12211714/Kerry-Blue-on-White-00.jpg
+111,Komondor,Working Group,Loyal, Dignified, Brave,16.0,27.5,0.0,Regular Exercise,Specialty/Professional,Independent,Specialty/Professional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231525/Komondor-On-White-01.jpg
+112,Kooikerhondje,Sporting Group,Friendly, Alert, Quick,19.5,16.0,0.0,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27080721/Kooiker-Profile2-800x600.jpg
+113,Kuvasz,Working Group,Loyal, Fearless, Sweet,16.0,29.0,107.5,Regular Exercise,Weekly Brushing,Independent,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231449/Kuvasz-On-White-01.jpg
+114,Labrador Retriever,Sporting Group,Friendly, Active, Outgoing,16.0,23.5,72.5,Needs Lots of Activity,Weekly Brushing,Eager to Please,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231410/Labrador-Retriever-On-White-01.jpg
+115,Lakeland Terrier,Terrier Group,Friendly, Confident, Bold,19.5,14.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231224/Lakeland-Terrier-On-White-02.jpg
+116,Lancashire Heeler,Miscellaneous Class,Affectionate, Versatile, Intelligent,19.5,11.0,13.0,Energetic,Occasional Bath/Brush,Easy Training,Occasional Bath/Brush,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231213/Lancashire-Heeler-On-White-01.jpg
+117,Leonberger,Working Group,Friendly, Gentle, Playful,7.0,29.75,140.0,Regular Exercise,Daily Brushing,Eager to Please,Daily Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12194744/Leonberger-on-White-05.jpg
+118,Lhasa Apso,Non-Sporting Group,Confident, Smart, Comical,19.5,10.5,15.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231104/Lhasa-Apso-On-White-01.jpg
+119,Lowchen,Non-Sporting Group,Affectionate, Outgoing, Positive,20.5,13.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213956/Lowchen-On-White-01.jpg
+120,Maltese,Toy Group,Gentle, Playful, Charming,19.5,8.0,0.0,Regular Exercise,Daily Brushing,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231006/Maltese-On-White-04.jpg
+121,Manchester Terrier,Terrier Group,Spirited, Bright, Keenly Observant,23.5,15.5,17.0,Regular Exercise,Weekly Brushing,Easy Training,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26203655/Manchester-Terrier-Standard-Slide-10.jpg
+122,Mastiff,Working Group,Courageous, Dignified, Good-Natured,11.0,30.0,195.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional Bath/Brush,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230849/Mastiff-On-White-03.jpg
+123,Miniature Pinscher,Toy Group,Fearless, Fun-Loving, Proud,20.0,11.25,9.0,Regular Exercise,Occasional Bath/Brush,Independent,Occasional Bath/Brush,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230736/Miniature-Pinscher-On-White-03.jpg
+124,Miniature Schnauzer,Terrier Group,Friendly, Smart, Obedient,19.5,13.0,15.5,Regular Exercise,Specialty/Professional,Eager to Please,Specialty/Professional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230713/Miniature-Schnauzer-On-White-01.jpg
+125,Mudi,Miscellaneous Class,Loyal, Intelligent, Active,19.0,16.75,23.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230639/Mudi-On-White-01.jpg
+126,Neapolitan Mastiff,Working Group,Loyal, Dignified, Watchful,11.5,28.5,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213114/Neopolitan-Mastiff-slide10-.jpg
+127,Newfoundland,Working Group,Sweet, Patient, Devoted,14.0,28.0,140.0,Regular Exercise,Weekly Brushing,Easy Training,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16191840/Newfoundland-onWhite-012-1.jpg
+128,Norfolk Terrier,Terrier Group,Fearless, Alert, Fun-Loving,20.0,9.5,11.5,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230448/Norfolk-Terrier-On-White-01.jpg
+129,Norwegian Buhund,Herding Group,Confident, Smart, Perceptive,19.5,17.75,35.5,Energetic,Weekly Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230414/Norwegian-Buhund-On-White-01.jpg
+130,Norwegian Elkhound,Hound Group,Friendly, Confident, Dependable,19.5,20.5,0.0,Regular Exercise,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230345/Norwegian-Elkhound-On-White-02.jpg
+131,Norwegian Lundehund,Non-Sporting Group,Loyal, Energetic, Alert,19.5,14.0,25.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230304/Norwegian-Lundehund-On-White-03.jpg
+132,Norwich Terrier,Terrier Group,Affectionate, Loyal, Alert,19.5,10.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230240/Norwich-Terrier-On-White-03.jpg
+133,Nova Scotia Duck Tolling Retriever,Sporting Group,Affectionate, Intelligent, Outgoing,19.0,19.5,42.5,Needs Lots of Activity,Weekly Brushing,Easy Training,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212948/Nova-Scotia-Duck-Tolling-Retriever-slide.jpg
+134,Old English Sheepdog,Herding Group,Adaptable, Gentle, Smart,16.0,22.0,80.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230147/Old-English-Sheepdog-On-White-03.jpg
+135,Otterhound,Hound Group,Even-Tempered, Amiable, Boisterous,16.5,27.0,0.0,Regular Exercise,Weekly Brushing,May be Stubborn,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230108/Otterhound-On-White-03.jpg
+136,Papillon,Toy Group,Friendly, Alert, Happy,22.0,9.5,7.5,Regular Exercise,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230042/Papillon-On-White-01.jpg
+137,Pekingese,Toy Group,Affectionate, Loyal, Regal in Manner,19.0,7.5,0.0,Calm,2-3 Times a Week Brushing,May be Stubborn,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212930/Pekingese-slide-01.jpg
+138,Pembroke Welsh Corgi,Herding Group,Affectionate, Smart, Alert,18.5,11.0,0.0,Energetic,Weekly Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25201637/day_2_dec_14_085.jpg
+139,Petit Basset Griffon Vendeen,Hound Group,Alert, Happy, Vivacious,22.0,14.0,32.5,Energetic,Weekly Brushing,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212335/Petit-Basset-Griffon-Vendeen-On-White-03.jpg
+140,Pharaoh Hound,Hound Group,Friendly, Smart, Noble,19.0,24.0,50.0,Energetic,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12214239/Pharaoh-Hound-On-White-03.jpg
+141,Plott,Hound Group,Loyal, Alert, Intelligent,19.0,22.5,55.0,Energetic,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225755/Plott-On-White-03.jpg
+142,Pointer,Sporting Group,Loyal, Hardworking, Even-Tempered,20.5,26.5,65.0,Energetic,Weekly Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212246/Pointer-slide1.jpg
+143,Polish Lowland Sheepdog,Herding Group,Confident, Clever, Lively,19.0,19.0,40.0,Calm,Daily Brushing,May be Stubborn,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225700/Polish-Lowland-Sheepdog-On-White-01.jpg
+144,Pomeranian,Toy Group,Inquisitive, Bold, Lively,20.0,6.5,5.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225627/Pomeranian-On-White-01.jpg
+145,Poodle,Non-Sporting Group,Active, Proud, Very Smart,19.0,12.5,12.5,Regular Exercise,Specialty/Professional,Eager to Please,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225538/Poodle-On-White-03.jpg
+146,Portuguese Water Dog,Working Group,Affectionate, Adventurous, Athletic,17.5,21.5,51.0,Energetic,Daily Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225434/Portuguese-Water-Dog-On-White-03.jpg
+147,Pug,Toy Group,Charming, Mischievous, Loving,20.5,11.5,16.0,Regular Exercise,Weekly Brushing,Agreeable,Regularly,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225358/Pug-On-White-01.jpg
+148,Puli,Herding Group,Loyal, Smart, Home-Loving,17.5,17.0,30.0,Regular Exercise,Specialty/Professional,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225328/Puli-On-White-01.jpg
+149,Pyrenean Shepherd,Herding Group,Affectionate, Active, Enthusiastic,23.5,17.0,22.5,Regular Exercise,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225211/Pyrenean-Shepherd-On-White-04.jpg
+150,Rat Terrier,Terrier Group,Friendly, Inquisitive, Lovable,21.0,11.5,17.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225148/Rat-Terrier-On-White-01.jpg
+151,Redbone Coonhound,Hound Group,Even-Tempered, Amiable, Eager to Please,19.5,24.5,57.5,Regular Exercise,Weekly Brushing,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225122/Redbone-Coonhound-On-White-01.jpg
+152,Rhodesian Ridgeback,Hound Group,Affectionate, Dignified, Even-Tempered,16.0,26.0,0.0,Regular Exercise,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225049/Rhodesian-Ridgeback-On-White-01.jpg
+153,Rottweiler,Working Group,Loyal, Loving, Confident Guardian,14.0,25.5,115.0,Regular Exercise,Occasional Bath/Brush,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224942/Rottweiler-On-White-10.jpg
+154,Saluki,Hound Group,Gentle, Dignified, Independent-Minded,18.5,25.5,52.5,Energetic,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14185322/AKC-121716-139.jpg
+155,Samoyed,Working Group,Adaptable, Friendly, Gentle,19.0,22.25,55.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212924/Samoyed-slide-5.jpg
+156,Schipperke,Non-Sporting Group,Confident, Alert, Curious,19.0,12.0,13.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224700/Schipperke-On-White-01.jpg
+157,Scottish Deerhound,Hound Group,Gentle, Dignified, Polite,13.5,31.0,97.5,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224620/Scottish-Deerhound-On-White-03.jpg
+158,Scottish Terrier,Terrier Group,Confident, Independent, Spirited,12.0,10.0,20.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224538/Scottish-Terrier-On-White-02.jpg
+159,Sealyham Terrier,Terrier Group,Alert, Outgoing, Sense Of Humor,19.0,10.5,23.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224458/Sealyham-Terrier-On-White-03.jpg
+160,Shetland Sheepdog,Herding Group,Playful, Energetic, Bright,19.0,14.5,20.0,Regular Exercise,2-3 Times a Week Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224438/Shetland-Sheepdog-On-White-01.jpg
+161,Shiba Inu,Non-Sporting Group,Alert, Active, Attentive,21.0,15.5,0.0,Regular Exercise,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224412/Shiba-Inu-On-White-01.jpg
+162,Shih Tzu,Toy Group,Affectionate, Playful, Outgoing,19.0,9.75,12.5,Regular Exercise,Daily Brushing,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224329/Shih-Tzu-On-White-01.jpg
+163,Siberian Husky,Working Group,Loyal, Outgoing, Mischevious,19.0,22.25,52.5,Energetic,Weekly Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224230/Siberian-Husky-On-White-01.jpg
+164,Silky Terrier,Toy Group,Friendly, Quick, Keenly Alert,20.5,9.5,0.0,Regular Exercise,2-3 Times a Week Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224133/Silky-Terrier-On-White-01.jpg
+165,Skye Terrier,Terrier Group,Courageous, Good-Tempered, Canny,19.0,10.0,40.0,Regular Exercise,Daily Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224056/Skye-Terrier-On-White-01.jpg
+166,Small Munsterlander Pointer,Foundation Stock Service,Intelligent, Devoted, Self-Confident,19.0,20.75,50.0,Needs Lots of Activity,Occasional Bath/Brush,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19190032/Munsterlander.5.jpg
+167,Soft Coated Wheaten Terrier,Terrier Group,Friendly, Happy, Deeply Devoted,19.0,18.5,37.5,Energetic,2-3 Times a Week Brushing,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223937/Soft-Coated-Wheaten-Terrier-On-White-01.jpg
+168,Stabyhoun,Foundation Stock Service,Intelligent, Responsive, Loving,20.5,20.0,50.0,Energetic,Occasional Bath/Brush,Easy Training,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/31125942/AdobeStock_62619970.jpg
+169,Staffordshire Bull Terrier,Terrier Group,Clever, Brave, Tenacious,19.0,15.0,33.0,Energetic,Weekly Brushing,May be Stubborn,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223754/Staffordshire-Bull-Terrier-On-White-03.jpg
+170,Standard Schnauzer,Working Group,Fearless, Smart, Spirited,21.0,19.0,42.5,Regular Exercise,2-3 Times a Week Brushing,Independent,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223711/Standard-Schnauzer-On-White-03.jpg
+171,Sussex Spaniel,Sporting Group,Friendly, Merry, Even-Tempered,20.5,14.0,40.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223645/Sussex-Spaniel-On-White-01.jpg
+172,Swedish Vallhund,Herding Group,Friendly, Energetic, Watchful,19.5,13.125,27.5,Needs Lots of Activity,Occasional Bath/Brush,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12211633/Swedish-Vallhund-on-White-01.jpg
+173,Tibetan Mastiff,Working Group,Independent, Reserved, Intelligent,16.0,26.0,120.0,Regular Exercise,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223558/Tibetan-Mastiff-On-White-03.jpg
+174,Tibetan Spaniel,Non-Sporting Group,Playful, Bright, Self-Confident,19.5,10.0,12.0,Calm,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223531/Tibetan-Spaniel-On-White-03.jpg
+175,Tibetan Terrier,Non-Sporting Group,Affectionate, Loyal, Sensitive,23.0,15.5,24.0,Energetic,2-3 Times a Week Brushing,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223455/Tibetan-Terrier-On-White-01.jpg
+176,Toy Fox Terrier,Toy Group,Friendly, Alert, Intelligent,20.5,10.0,5.25,Energetic,Weekly Brushing,Eager to Please,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223410/Toy-Fox-Terrier-On-White-03.jpg
+177,Treeing Tennessee Brindle,Foundation Stock Service,Friendly, Alert, Intelligent,16.0,20.0,40.0,Calm,Weekly Brushing,Occasional,Regular Exercise,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12205430/Treeing-Tennessee-Brindle-on-White-01.jpg
+178,Treeing Walker Coonhound,Hound Group,Smart, Brave, Courteous,18.5,24.5,60.0,Regular Exercise,Occasional Bath/Brush,Independent,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223344/Treeing-Walker-Coonhound-On-White-01.jpg
+179,Vizsla,Sporting Group,Affectionate, Gentle, Energetic,19.0,23.0,57.5,Energetic,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223307/Vizsla-On-White-01.jpg
+180,Weimaraner,Sporting Group,Friendly, Fearless, Obedient,16.5,26.0,80.0,Needs Lots of Activity,Weekly Brushing,Eager to Please,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223229/Weimaraner-On-White-01.jpg
+181,Welsh Springer Spaniel,Sporting Group,Happy, Reserved, Upbeat,19.5,18.5,47.5,Energetic,Weekly Brushing,Easy Training,Weekly Brushing,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12194550/Welsh-Springer-Spaniel-on-White-01.jpg
+182,Welsh Terrier,Terrier Group,Friendly, Spirited, Intelligent,19.5,15.0,0.0,Energetic,2-3 Times a Week Brushing,Agreeable,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223127/Welsh-Terrier-On-White-03.jpg
+183,Whippet,Hound Group,Affectionate, Playful, Calm,19.5,20.5,32.5,Regular Exercise,Occasional Bath/Brush,Independent,Occasional,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12192102/Whippet-5-st.jpg
+184,Wirehaired Pointing Griffon,Sporting Group,Friendly, Devoted, Trainable,19.5,23.0,60.0,Needs Lots of Activity,Weekly Brushing,Agreeable,Seasonal,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12222848/Wirehaired-Pointing-Griffon-On-White-02.jpg
+185,Xoloitzcuintli,Non-Sporting Group,Loyal, Alert, Calm,22.0,12.0,12.5,Energetic,Occasional Bath/Brush,Agreeable,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12222734/Xoloitzcuintli-On-White-01.jpg
+186,Yorkshire Terrier,Toy Group,Affectionate, Sprightly, Tomboyish,18.5,7.5,0.0,Regular Exercise,Specialty/Professional,May be Stubborn,Infrequent,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20203728/Yorkshire-Terrier-2.1.jpg
