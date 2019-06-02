@@ -1,4 +1,118 @@
-d3.csv('data.csv', function (data) {
+let dummy_data = [{'breed': 'Affenpischer', 
+                  'group': 'Toy Group',
+                  'temperament1': 'Confident',
+                  'temperament2': 'Famously Funny',
+                  'temperament3': 'Fearless',
+                  'life_expectancy_years': 19.5,
+                  'avg_height_inches': 10.25,
+                  'avg_weight_pounds': 8.5,
+                  'energy': 'Regular Exercise',
+                  'grooming': '2-3 Times a Week',
+                  'trainability': 'Easy Training',
+                  'shedding': 'Seasonal'},
+                  
+                  {'breed': 'Afghan Hound', 
+                  'group': 'Hound Group',
+                  'temperament1': 'Friendly',
+                  'temperament2': 'Sweet',
+                  'temperament3': 'Regal',
+                  'life_expectancy_years': 21,
+                  'avg_height_inches': 26,
+                  'avg_weight_pounds': 55,
+                  'energy': 'Energetic',
+                  'grooming': 'Daily Brushing',
+                  'trainability': 'May be stubborn',
+                  'shedding': 'Infrequent'}]
+
+
+function dogOptions(data) {
+
+  // List of groups (here I have one group per column)
+  var allGroup1 = d3.map(data, d => d.breed).keys()
+
+  // add the options to the button
+  d3.select("#breed")
+    .selectAll('myOptions')
+    .data(allGroup1)
+    .enter()
+    .append('option')
+    // how do we get a none option?
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup2 = d3.map(data, d => d.group).keys()
+
+  // add the options to the button
+  d3.select("#group")
+    .selectAll('myOptions')
+    .data(allGroup2)
+    .enter()
+    .append('option')
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup4 = d3.map(data, d => d.energy).keys()
+
+  // add the options to the button
+  d3.select("#energy")
+    .selectAll('myOptions')
+    .data(allGroup4)
+    .enter()
+    .append('option')
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup5 = d3.map(data, d => d.grooming).keys()
+
+  // add the options to the button
+  d3.select("#grooming")
+    .selectAll('myOptions')
+    .data(allGroup5)
+    .enter()
+    .append('option')
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup6 = d3.map(data, d => d.shedding).keys()
+
+  // add the options to the button
+  d3.select("#shedding")
+    .selectAll('myOptions')
+    .data(allGroup6)
+    .enter()
+    .append('option')
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+  // List of groups (here I have one group per column)
+  var allGroup7 = d3.map(data, d => d.trainability).keys()
+
+  // add the options to the button
+  d3.select("#trainability")
+    .selectAll('myOptions')
+    .data(allGroup7)
+    .enter()
+    .append('option')
+    .text(d => d) // text showed in the menu
+    .attr("value", d => d) // corresponding value returned by the button
+
+}
+
+dogOptions(dummy_data);
+
+// function that creates scatter plot
+function scatter(dummy_data) {
+  console.log(dummy_data)
+  
+  // clear scatter plot every time it restarts
+  d3.select('svg').remove();
+
+  // clear all the dropdown options and restart 
+  // d3.selectAll('option').remove();
   
   // Variables
   var body = d3.select('#scatter')
@@ -10,15 +124,16 @@ d3.csv('data.csv', function (data) {
   // Scales
   var colorScale = d3.scale.category20c()
   var xScale = d3.scale.linear()
-    .domain([
-        0,d3.max(data,function (d) { return +d.lelow; })
-    ])
-    .range([0,w])
+  .domain([d3.min(dummy_data, d => d.life_expectancy_years),
+    d3.max(dummy_data, d => d.life_expectancy_years)])
+  .range([0,w])
+  console.log(xScale)
+
   var yScale = d3.scale.linear()
-    .domain([
-        0,d3.max(data,function (d) { return +d.lehigh; })
-    ])
-    .range([h,0])
+  .domain([d3.min(dummy_data, d => d.avg_weight_pounds),
+    d3.max(dummy_data, d => d.avg_weight_pounds)])
+  .range([h,0])
+  console.log(yScale)
   
   // SVG
 	var svg = body.append('svg')
@@ -32,22 +147,24 @@ d3.csv('data.csv', function (data) {
 	  .scale(xScale)
 	  .tickFormat(d3.format(',d'))
 	  .ticks(5)
-	  .orient('bottom')
+    .orient('bottom')
+  console.log(xAxis)
   
   // Y-axis
 	var yAxis = d3.svg.axis()
 	  .scale(yScale)
 	  .tickFormat(d3.format(',d'))
 	  .ticks(5)
-	  .orient('left')
+    .orient('left')
+  console.log(yAxis)
   
   // Circles
   var circles = svg.selectAll('circle')
-      .data(data)
+      .data(dummy_data)
       .enter()
       .append('circle')
-      .attr('cx',function (d) { return xScale(d.lelow) })
-      .attr('cy',function (d) { return yScale(d.lehigh) })
+      .attr('cx', d => d.life_expectancy_years)
+      .attr('cy', d => d.avg_weight_pounds)
       .attr('r','10')
       .attr('stroke','black')
       .attr('stroke-width',1)
@@ -67,13 +184,13 @@ d3.csv('data.csv', function (data) {
           .attr('stroke-width',1)
       })
       .append('title') // Tooltip
-      .text(function (d) { return d.Breed +
-                           '\nLife Expectancy Low: ' + formatNumber(d.lelow) +
-                           '\nLife Expectancy High.: ' + formatNumber(d.lehigh) })
-      .append('image')
-      .attr('xlink:href', function (d) { return d.ImageURL })
-      .attr('width', 200)
-      .attr('height', 200)
+      .text(function (d) { return d.breed +
+                           '\nLife Expectancy Years: ' + d.life_expectancy_years +
+                           '\nAverage Weight Pounds: ' + d.avg_weight_pounds })
+      // .append('image')
+      // .attr('xlink:href', function (d) { return d.ImageURL })
+      // .attr('width', 200)
+      // .attr('height', 200)
       
   // X-axis
   svg.append('g')
@@ -86,7 +203,7 @@ d3.csv('data.csv', function (data) {
       .attr('x',w)
       .attr('dy','.71em')
       .style('text-anchor','end')
-      .text('Life Expectancy Low')
+      .text('Average Life Expectancy (Years)')
   // Y-axis
   svg.append('g')
       .attr('class','axis')
@@ -98,153 +215,64 @@ d3.csv('data.csv', function (data) {
       .attr('y',5)
       .attr('dy','.71em')
       .style('text-anchor','end')
-      .text('Life Expectancy High')
+      .text('Average Weight (Pounds)')
 
-  // List of groups (here I have one group per column)
-  var allGroup1 = d3.map(data, function(d){return(d.Breed)}).keys()
+}
 
-  // add the options to the button
-  d3.select("#selDataset1")
-    .selectAll('myOptions')
-    .data(allGroup1)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+// plot the base scatter plot
+scatter(dummy_data);
 
-  // List of groups (here I have one group per column)
-  var allGroup2 = d3.map(data, function(d){return(d.Group)}).keys()
+// Keep Track of all filters
+var filters = {};
 
-  // add the options to the button
-  d3.select("#selDataset2")
-    .selectAll('myOptions')
-    .data(allGroup2)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
 
-  // List of groups (here I have one group per column)
-  var allGroup4 = d3.map(data, function(d){return(d.Energy)}).keys()
+function updateFilters(parameter1, parameter2) {
 
-  // add the options to the button
-  d3.select("#selDataset4")
-    .selectAll('myOptions')
-    .data(allGroup4)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
+  // Save the element, value, and id of the filter that was changed
+  var elementValue = parameter1
+  console.log(elementValue)
 
-  // List of groups (here I have one group per column)
-  var allGroup5 = d3.map(data, function(d){return(d.Grooming)}).keys()
+  var filterId = parameter2
+  console.log(filterId)
 
-  // add the options to the button
-  d3.select("#selDataset5")
-    .selectAll('myOptions')
-    .data(allGroup5)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
 
-  // List of groups (here I have one group per column)
-  var allGroup6 = d3.map(data, function(d){return(d.Shedding)}).keys()
-
-  // add the options to the button
-  d3.select("#selDataset6")
-    .selectAll('myOptions')
-    .data(allGroup6)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
-
-  // List of groups (here I have one group per column)
-  var allGroup7 = d3.map(data, function(d){return(d.Trainability)}).keys()
-
-  // add the options to the button
-  d3.select("#selDataset7")
-    .selectAll('myOptions')
-    .data(allGroup7)
-    .enter()
-    .append('option')
-    .text(function (d) { return d; }) // text showed in the menu
-    .attr("value", function (d) { return d; }) // corresponding value returned by the button
-
-    // Circles
-    var circles = svg.selectAll('circle')
-    .data(data)
-    .enter()
-    .append('circle')
-    .datum(data.filter(function(d){return d.Breed==allGroup1[0]}))
-    .attr('cx',function (d) { return xScale(d.lelow) })
-    .attr('cy',function (d) { return yScale(d.lehigh) })
-    .attr('r','10')
-    .attr('stroke','black')
-    .attr('stroke-width',1)
-    .attr('fill',function (d,i) { return colorScale(i) })
-    .on('mouseover', function () {
-      d3.select(this)
-        .transition()
-        .duration(500)
-        .attr('r',20)
-        .attr('stroke-width',3)
-    })
-    .on('mouseout', function () {
-      d3.select(this)
-        .transition()
-        .duration(500)
-        .attr('r',10)
-        .attr('stroke-width',1)
-    })
-    .append('title') // Tooltip
-    .text(function (d) { return d.Breed +
-      '\nLife Expectancy Low: ' + formatNumber(d.lehigh) +
-      '\nLife Expectancy High.: ' + formatNumber(d.lelow) })
-
-  // A function that update the chart
-  function update(selectedGroup) {
-
-  // Create new data with the selection?
-  var dataFilter = data.filter(function(d){return d.Breed==selectedGroup})
-
-    // Give these new data to update line
-    circles
-      .datum(dataFilter)
-      .transition()
-      .duration(1000)
-      .attr('cx',function (d) { return xScale(d.lelow) })
-      .attr('cy',function (d) { return yScale(d.lehigh) })
-      .attr('r','10')
-      .attr('stroke','black')
-      .attr('stroke-width',1)
-      .attr('fill',function (d,i) { return colorScale(i) })
-      .on('mouseover', function () {
-        d3.select(this)
-          .transition()
-          .duration(500)
-          .attr('r',20)
-          .attr('stroke-width',3)
-      })
-      .on('mouseout', function () {
-        d3.select(this)
-          .transition()
-          .duration(500)
-          .attr('r',10)
-          .attr('stroke-width',1)
-      })
-      .append('title') // Tooltip
-        .text(function (d) { return d.Breed +
-          '\nLife Expectancy Low: ' + formatNumber(d.lehigh) +
-          '\nLife Expectancy High.: ' + formatNumber(d.lelow) })
+  // If a filter value was entered then add that filterId and value
+  // to the filters list. Otherwise, clear that filter from the filters object
+  if (elementValue != 'Select One') {
+    filters[filterId] = elementValue;
+  }
+  else {
+    delete filters[filterId];
   }
 
-  // When the button is changed, run the updateChart function
-  d3.select("#selectButton").on("change", function(d) {
-      // recover the option that has been chosen
-       var selectedOption = d3.select(this).property("value")
-       // run the updateChart function with this selected option
-       update(selectedOption)
-    })
-})
+  console.log(filters)
+  // Call function to apply all filters and rebuild the table
+  filterCircles();
+
+}
+
+// filters the circles based on selections
+function filterCircles() {
+
+  // Set the filteredData to the tableData
+  let filteredData = dummy_data;
+
+  // Loop through all of the filters and keep any data that
+  // matches the filter values
+  Object.entries(filters).forEach(([key, value]) => {
+    filteredData = filteredData.filter(row => row[key] === value);
+  });
+
+  // Finally, rebuild the table using the filtered Data
+  scatter(filteredData);
+}
+
+// resets the filters and graph upon clicking the reset button
+function resetFilters() {
+
+  scatter(dummy_data)
+
+  d3.selectAll('option').text('Select One')
+
+}
+
