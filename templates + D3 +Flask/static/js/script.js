@@ -23,6 +23,7 @@ let dummy_data = [{'breed': 'Affenpischer',
                   'grooming': 'Daily Brushing',
                   'trainability': 'May be stubborn',
                   'shedding': 'Infrequent'}]
+  
 
 
 function dogOptions(data) {
