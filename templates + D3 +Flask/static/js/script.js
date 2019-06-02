@@ -23,6 +23,7 @@ let dummy_data = [{'breed': 'Affenpischer',
                   'grooming': 'Daily Brushing',
                   'trainability': 'May be stubborn',
                   'shedding': 'Infrequent'}]
+  
 
 
 function dogOptions(data) {
@@ -271,7 +272,6 @@ function filterCircles() {
 function resetFilters() {
 
   scatter(dummy_data)
-
   d3.selectAll('option').text('Select One')
 
 }
