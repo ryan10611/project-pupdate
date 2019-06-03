@@ -1,3 +1,5 @@
+
+
 let dummy_data = [{'breed': 'Affenpischer', 
                   'group': 'Toy Group',
                   'temperament1': 'Confident',
@@ -25,9 +27,24 @@ let dummy_data = [{'breed': 'Affenpischer',
                   'shedding': 'Infrequent'}]
   
 
+async function getMetadata() {
+  let metaURL = `/dogdata`
+  console.log(metaURL)
+  
+  let metaData = await d3.json(metaURL, d => console.log(d));
+  // console.log(metaData[0]);
+  // return metaData;
 
-function dogOptions(data) {
 
+
+
+
+async function dogOptions(data) {
+
+  // let metaURL = `/dogdata`
+  // console.log(metaURL)
+  // let metaData = await d3.json(metaURL, d => console.log(d));
+  
   // List of groups (here I have one group per column)
   var allGroup1 = d3.map(data, d => d.breed).keys()
 
@@ -103,17 +120,15 @@ function dogOptions(data) {
 
 }
 
-dogOptions(dummy_data);
+// dogOptions(dummy_data);
+let metaData1 = await d3.json(metaURL, d => dogOptions(d));
 
 // function that creates scatter plot
-function scatter(dummy_data) {
-  console.log(dummy_data)
+function scatter(data) {
+  console.log(data)
   
   // clear scatter plot every time it restarts
   d3.select('svg').remove();
-
-  // clear all the dropdown options and restart 
-  // d3.selectAll('option').remove();
   
   // Variables
   var body = d3.select('#scatter')
@@ -125,14 +140,14 @@ function scatter(dummy_data) {
   // Scales
   var colorScale = d3.scale.category20c()
   var xScale = d3.scale.linear()
-  .domain([d3.min(dummy_data, d => d.life_expectancy_years),
-    d3.max(dummy_data, d => d.life_expectancy_years)])
+  .domain([d3.min(data, d => d.life_expectancy_years),
+    d3.max(data, d => d.life_expectancy_years)])
   .range([0,w])
   console.log(xScale)
 
   var yScale = d3.scale.linear()
-  .domain([d3.min(dummy_data, d => d.avg_weight_pounds),
-    d3.max(dummy_data, d => d.avg_weight_pounds)])
+  .domain([d3.min(data, d => d.avg_weight_pounds),
+    d3.max(data, d => d.avg_weight_pounds)])
   .range([h,0])
   console.log(yScale)
   
@@ -147,25 +162,25 @@ function scatter(dummy_data) {
 	var xAxis = d3.svg.axis()
 	  .scale(xScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(5)
+	  .ticks(10)
     .orient('bottom')
-  console.log(xAxis)
+  // console.log(xAxis)
   
   // Y-axis
 	var yAxis = d3.svg.axis()
 	  .scale(yScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(5)
+	  .ticks(10)
     .orient('left')
-  console.log(yAxis)
+  // console.log(yAxis)
   
   // Circles
   var circles = svg.selectAll('circle')
-      .data(dummy_data)
+      .data(data)
       .enter()
       .append('circle')
-      .attr('cx', d => d.life_expectancy_years)
-      .attr('cy', d => d.avg_weight_pounds)
+      .attr('cx', d => d.life_expectancy_years*25)
+      .attr('cy', d => h-d.avg_weight_pounds*2)
       .attr('r','10')
       .attr('stroke','black')
       .attr('stroke-width',1)
@@ -187,7 +202,8 @@ function scatter(dummy_data) {
       .append('title') // Tooltip
       .text(function (d) { return d.breed +
                            '\nLife Expectancy Years: ' + d.life_expectancy_years +
-                           '\nAverage Weight Pounds: ' + d.avg_weight_pounds })
+                           '\nAverage Weight Pounds: ' + d.avg_weight_pounds +
+                            '\nTemperament: ' + d.temperament1 + ',' + d.temperament2 + ',' + d.temperament3})
       // .append('image')
       // .attr('xlink:href', function (d) { return d.ImageURL })
       // .attr('width', 200)
@@ -220,8 +236,12 @@ function scatter(dummy_data) {
 
 }
 
+
 // plot the base scatter plot
-scatter(dummy_data);
+// scatter(dummy_data);
+let metaData2 = await d3.json(metaURL, d => scatter(d));
+}
+getMetadata();
 
 // Keep Track of all filters
 var filters = {};
@@ -253,10 +273,15 @@ function updateFilters(parameter1, parameter2) {
 }
 
 // filters the circles based on selections
-function filterCircles() {
+async function filterCircles() {
 
   // Set the filteredData to the tableData
-  let filteredData = dummy_data;
+  // let filteredData = dummy_data;
+
+  let metaURL = `/dogdata`
+  console.log(metaURL)
+  
+  let filteredData = await d3.json(metaURL, d => console.log(d));
 
   // Loop through all of the filters and keep any data that
   // matches the filter values
@@ -268,10 +293,16 @@ function filterCircles() {
   scatter(filteredData);
 }
 
-// resets the filters and graph upon clicking the reset button
-function resetFilters() {
 
-  scatter(dummy_data)
+// resets the filters and graph upon clicking the reset button
+async function resetFilters() {
+
+  let metaURL = `/dogdata`
+  console.log(metaURL)
+  
+  let scatterReset = await d3.json(metaURL, d => scatter(d));
+
+  // scatter(dummy_data)
   d3.selectAll('option').text('Select One')
 
 }
