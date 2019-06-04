@@ -1,5 +1,5 @@
 
-
+// dummy data for testing, debugging and development
 let dummy_data = [{'breed': 'Affenpischer', 
                   'group': 'Toy Group',
                   'temperament1': 'Confident',
@@ -31,11 +31,18 @@ async function getMetadata() {
   let metaURL = `/dogdata`
   console.log(metaURL)
   
+  // check for data
   let metaData = await d3.json(metaURL, d => console.log(d));
-  // console.log(metaData[0]);
-  // return metaData;
 
+  // populate the base dropdowns
+  let metaData1 = await d3.json(metaURL, d => dogOptions(d));
 
+  // populate the base scatter
+  let metaData2 = await d3.json(metaURL, d => scatter(d));
+
+  
+}
+getMetadata();
 
 
 
@@ -120,8 +127,9 @@ async function dogOptions(data) {
 
 }
 
+// populate dropdowns for testing
 // dogOptions(dummy_data);
-let metaData1 = await d3.json(metaURL, d => dogOptions(d));
+
 
 // function that creates scatter plot
 function scatter(data) {
@@ -140,14 +148,14 @@ function scatter(data) {
   // Scales
   var colorScale = d3.scale.category20c()
   var xScale = d3.scale.linear()
-  .domain([d3.min(data, d => d.life_expectancy_years),
-    d3.max(data, d => d.life_expectancy_years)])
+  .domain([5,
+    d3.max(data, d => d.life_expectancy_years*1.022)])
   .range([0,w])
   console.log(xScale)
 
   var yScale = d3.scale.linear()
-  .domain([d3.min(data, d => d.avg_weight_pounds),
-    d3.max(data, d => d.avg_weight_pounds)])
+  .domain([0,
+    d3.max(data, d => d.avg_weight_pounds*1.028)])
   .range([h,0])
   console.log(yScale)
   
@@ -162,7 +170,7 @@ function scatter(data) {
 	var xAxis = d3.svg.axis()
 	  .scale(xScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(10)
+	  .ticks(6)
     .orient('bottom')
   // console.log(xAxis)
   
@@ -170,7 +178,7 @@ function scatter(data) {
 	var yAxis = d3.svg.axis()
 	  .scale(yScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(10)
+	  .ticks(5)
     .orient('left')
   // console.log(yAxis)
   
@@ -179,8 +187,8 @@ function scatter(data) {
       .data(data)
       .enter()
       .append('circle')
-      .attr('cx', d => d.life_expectancy_years*25)
-      .attr('cy', d => h-d.avg_weight_pounds*2)
+      .attr('cx', d => (xScale(d.life_expectancy_years)))
+      .attr('cy', d => yScale(d.avg_weight_pounds))
       .attr('r','10')
       .attr('stroke','black')
       .attr('stroke-width',1)
@@ -239,9 +247,7 @@ function scatter(data) {
 
 // plot the base scatter plot
 // scatter(dummy_data);
-let metaData2 = await d3.json(metaURL, d => scatter(d));
-}
-getMetadata();
+
 
 // Keep Track of all filters
 var filters = {};
@@ -275,14 +281,12 @@ function updateFilters(parameter1, parameter2) {
 // filters the circles based on selections
 async function filterCircles() {
 
-  // Set the filteredData to the tableData
+  // Set the filteredData to the dymmy_data for testing
   // let filteredData = dummy_data;
-
   let metaURL = `/dogdata`
   console.log(metaURL)
-  
-  let filteredData = await d3.json(metaURL, d => console.log(d));
 
+  let filteredData = await d3.json(metaURL, function(filteredData) {
   // Loop through all of the filters and keep any data that
   // matches the filter values
   Object.entries(filters).forEach(([key, value]) => {
@@ -291,6 +295,10 @@ async function filterCircles() {
 
   // Finally, rebuild the table using the filtered Data
   scatter(filteredData);
+
+  });
+
+  
 }
 
 
