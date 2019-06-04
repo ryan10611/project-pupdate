@@ -148,13 +148,13 @@ function scatter(data) {
   // Scales
   var colorScale = d3.scale.category20c()
   var xScale = d3.scale.linear()
-  .domain([5,
+  .domain([d3.min(data, d => d.life_expectancy_years-1),
     d3.max(data, d => d.life_expectancy_years*1.022)])
   .range([0,w])
   console.log(xScale)
 
   var yScale = d3.scale.linear()
-  .domain([0,
+  .domain([d3.min(data, d => d.avg_weight_pounds-15),
     d3.max(data, d => d.avg_weight_pounds*1.028)])
   .range([h,0])
   console.log(yScale)
@@ -170,7 +170,7 @@ function scatter(data) {
 	var xAxis = d3.svg.axis()
 	  .scale(xScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(6)
+	  .ticks(10)
     .orient('bottom')
   // console.log(xAxis)
   
@@ -178,7 +178,7 @@ function scatter(data) {
 	var yAxis = d3.svg.axis()
 	  .scale(yScale)
 	  .tickFormat(d3.format(',d'))
-	  .ticks(5)
+	  .ticks(10)
     .orient('left')
   // console.log(yAxis)
   
