@@ -61,6 +61,8 @@ async function dogOptions(data) {
     .data(allGroup1)
     .enter()
     .append('option')
+    // .text("Select One") // text showed in the menu
+    // .attr("value", "Select One") // corresponding value returned by the button
     // how do we get a none option?
     .text(d => d) // text showed in the menu
     .attr("value", d => d) // corresponding value returned by the button
@@ -310,8 +312,7 @@ async function resetFilters() {
   
   let scatterReset = await d3.json(metaURL, d => scatter(d));
 
-  // scatter(dummy_data)
-  d3.selectAll('option').text('Select One')
-
+  // // scatter(dummy_data)
+  d3.selectAll('select').property('selectedIndex', 0)
 }
 
