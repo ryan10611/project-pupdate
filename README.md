@@ -5,8 +5,13 @@ Bark bark! This is a project that aims to help those uncertain of what they want
 View the final result: https://pup-date.herokuapp.com/
 
 Contributions:
+
 Ryan Clark: Team lead, web scraping
+
 Umair Khakoo: Data cleaning, D3 scatterplot
+
 Rachel Frnka: Presentation and design
+
 Ashley Kuttler: Flask and SQL integration
+
 Alex Bracho: Sunburst visualization
